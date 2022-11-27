@@ -1,0 +1,2085 @@
+2022-11-16 09:35:34,099 [main] INFO logger_File - React App is equal to React App
+2022-11-16 09:35:34,256 [main] INFO logger_File - User clicked on sign in option
+2022-11-16 09:40:30,794 [main] INFO logger_File - React App is equal to React App
+2022-11-16 09:40:30,976 [main] INFO logger_File - User clicked on sign in option
+2022-11-16 09:40:31,317 [main] INFO logger_File - user entered email ihateteacher@tek.com and password Tek@12345
+2022-11-16 09:48:16,315 [main] INFO logger_File - React App is equal to React App
+2022-11-16 09:48:16,476 [main] INFO logger_File - User clicked on sign in option
+2022-11-16 09:48:16,813 [main] INFO logger_File - user entered email ihateteacher@tek.com and password Tek@12345
+2022-11-16 09:48:16,924 [main] INFO logger_File - user clicked on login button
+2022-11-16 09:50:02,025 [main] INFO logger_File - React App is equal to React App
+2022-11-16 09:50:02,234 [main] INFO logger_File - User clicked on sign in option
+2022-11-16 09:50:02,664 [main] INFO logger_File - user entered email fake@fake.com and password fake@123
+2022-11-16 09:50:02,774 [main] INFO logger_File - user clicked on login button
+2022-11-16 09:50:56,253 [main] INFO logger_File - React App is equal to React App
+2022-11-16 09:50:56,409 [main] INFO logger_File - User clicked on sign in option
+2022-11-16 09:50:56,716 [main] INFO logger_File - user entered email fake@fake.com and password Fake@123
+2022-11-16 09:50:56,824 [main] INFO logger_File - user clicked on login button
+2022-11-16 09:50:57,182 [main] INFO logger_File - user logged in into account
+2022-11-16 09:52:21,482 [main] INFO logger_File - React App is equal to React App
+2022-11-16 09:52:21,624 [main] INFO logger_File - User clicked on sign in option
+2022-11-16 09:52:22,024 [main] INFO logger_File - user entered email fake@fake.com and password Fake@123
+2022-11-16 09:52:22,152 [main] INFO logger_File - user clicked on login button
+2022-11-16 09:52:22,530 [main] INFO logger_File - user logged in into account
+2022-11-16 09:57:28,887 [main] INFO logger_File - React App is equal to React App
+2022-11-16 09:57:29,035 [main] INFO logger_File - User clicked on sign in option
+2022-11-17 14:14:38,649 [main] INFO logger_File - React App is equal to React App
+2022-11-17 14:14:38,818 [main] INFO logger_File - User clicked on sign in option
+2022-11-17 14:33:20,600 [main] INFO logger_File - React App is equal to React App
+2022-11-17 14:33:20,791 [main] INFO logger_File - User clicked on sign in option
+2022-11-17 14:40:18,062 [main] INFO logger_File - React App is equal to React App
+2022-11-17 14:40:18,242 [main] INFO logger_File - User clicked on sign in option
+2022-11-17 14:45:16,614 [main] INFO logger_File - React App is equal to React App
+2022-11-17 14:45:16,774 [main] INFO logger_File - User clicked on sign in option
+2022-11-17 14:46:55,919 [main] INFO logger_File - React App is equal to React App
+2022-11-17 14:46:56,078 [main] INFO logger_File - User clicked on sign in option
+2022-11-17 14:58:58,434 [main] INFO logger_File - React App is equal to React App
+2022-11-17 14:58:58,602 [main] INFO logger_File - User clicked on sign in option
+2022-11-17 15:03:17,789 [main] INFO logger_File - React App is equal to React App
+2022-11-17 15:03:17,968 [main] INFO logger_File - User clicked on sign in option
+2022-11-17 15:15:10,043 [main] INFO logger_File - React App is equal to React App
+2022-11-17 15:15:10,228 [main] INFO logger_File - User clicked on sign in option
+2022-11-17 15:16:48,812 [main] INFO logger_File - React App is equal to React App
+2022-11-17 15:16:49,019 [main] INFO logger_File - User clicked on sign in option
+2022-11-17 15:21:28,522 [main] INFO logger_File - React App is equal to React App
+2022-11-17 15:21:28,716 [main] INFO logger_File - User clicked on sign in option
+2022-11-17 17:06:27,341 [main] INFO logger_File - React App is equal to React App
+2022-11-17 17:06:27,544 [main] INFO logger_File - User clicked on sign in option
+2022-11-17 17:19:44,554 [main] INFO logger_File - React App is equal to React App
+2022-11-17 17:19:44,704 [main] INFO logger_File - User clicked on sign in option
+2022-11-17 17:21:35,960 [main] INFO logger_File - React App is equal to React App
+2022-11-17 17:21:36,115 [main] INFO logger_File - User clicked on sign in option
+2022-11-17 17:28:15,624 [main] INFO logger_File - React App is equal to React App
+2022-11-17 17:28:15,792 [main] INFO logger_File - User clicked on sign in option
+2022-11-17 17:43:39,703 [main] INFO logger_File - React App is equal to React App
+2022-11-17 17:43:39,885 [main] INFO logger_File - User clicked on sign in option
+2022-11-17 18:29:59,273 [main] INFO logger_File - React App is equal to React App
+2022-11-17 20:26:43,907 [main] INFO logger_File - React App is equal to React App
+2022-11-17 20:26:44,068 [main] INFO logger_File - User clicked on sign in option
+2022-11-17 21:00:30,275 [main] INFO logger_File - React App is equal to React App
+2022-11-17 21:00:30,452 [main] INFO logger_File - User clicked on sign in option
+2022-11-17 21:12:01,490 [main] INFO logger_File - React App is equal to React App
+2022-11-17 21:12:01,981 [main] INFO logger_File - User clicked on sign in option
+2022-11-17 21:23:57,696 [main] INFO logger_File - React App is equal to React App
+2022-11-17 21:23:57,868 [main] INFO logger_File - User clicked on sign in option
+2022-11-17 21:23:58,181 [main] INFO logger_File - user entered email fake@fake.com and password Fake@123
+2022-11-17 21:23:58,297 [main] INFO logger_File - user clicked on login button
+2022-11-17 21:23:58,731 [main] INFO logger_File - user logged in into account
+2022-11-17 21:24:42,850 [main] INFO logger_File - React App is equal to React App
+2022-11-17 21:24:42,995 [main] INFO logger_File - User clicked on sign in option
+2022-11-17 21:53:01,663 [main] INFO logger_File - React App is equal to React App
+2022-11-17 21:53:01,977 [main] INFO logger_File - User clicked on sign in option
+2022-11-17 21:55:35,650 [main] INFO logger_File - React App is equal to React App
+2022-11-17 21:55:35,861 [main] INFO logger_File - User clicked on sign in option
+2022-11-17 21:55:35,972 [main] INFO logger_File - User clicked on create new account button
+2022-11-17 22:01:12,413 [main] INFO logger_File - React App is equal to React App
+2022-11-17 22:01:12,593 [main] INFO logger_File - User clicked on sign in option
+2022-11-17 22:01:12,693 [main] INFO logger_File - User clicked on create new account button
+2022-11-17 22:01:13,198 [main] INFO logger_File - user entered required information into sign up form
+2022-11-17 22:03:09,195 [main] INFO logger_File - React App is equal to React App
+2022-11-17 22:03:09,348 [main] INFO logger_File - User clicked on sign in option
+2022-11-17 22:03:09,462 [main] INFO logger_File - User clicked on create new account button
+2022-11-17 22:03:10,024 [main] INFO logger_File - user entered required information into sign up form
+2022-11-17 22:03:10,307 [main] INFO logger_File - Account was created
+2022-11-17 22:04:00,497 [main] INFO logger_File - React App is equal to React App
+2022-11-17 22:04:00,958 [main] INFO logger_File - User clicked on sign in option
+2022-11-17 22:04:01,199 [main] INFO logger_File - User clicked on create new account button
+2022-11-17 22:04:01,984 [main] INFO logger_File - user entered required information into sign up form
+2022-11-17 22:04:02,128 [main] INFO logger_File - Account was created
+2022-11-17 22:09:05,566 [main] INFO logger_File - React App is equal to React App
+2022-11-17 22:09:05,696 [main] INFO logger_File - User clicked on sign in option
+2022-11-17 22:09:05,813 [main] INFO logger_File - User clicked on create new account button
+2022-11-17 22:09:06,357 [main] INFO logger_File - user entered required information into sign up form
+2022-11-17 22:09:06,445 [main] INFO logger_File - Account was created
+2022-11-17 22:10:30,527 [main] INFO logger_File - React App is equal to React App
+2022-11-17 22:10:30,665 [main] INFO logger_File - User clicked on sign in option
+2022-11-17 22:10:30,763 [main] INFO logger_File - User clicked on create new account button
+2022-11-17 22:10:31,290 [main] INFO logger_File - user entered required information into sign up form
+2022-11-17 22:10:31,382 [main] INFO logger_File - Account was created
+2022-11-17 22:15:09,628 [main] INFO logger_File - React App is equal to React App
+2022-11-17 22:15:09,761 [main] INFO logger_File - User clicked on sign in option
+2022-11-17 22:15:09,869 [main] INFO logger_File - User clicked on create new account button
+2022-11-17 22:15:10,402 [main] INFO logger_File - user entered required information into sign up form
+2022-11-17 22:15:10,483 [main] INFO logger_File - Account was created
+2022-11-17 22:31:14,821 [main] INFO logger_File - React App is equal to React App
+2022-11-17 22:31:14,981 [main] INFO logger_File - User clicked on sign in option
+2022-11-17 22:31:15,145 [main] INFO logger_File - User clicked on create new account button
+2022-11-17 22:31:15,659 [main] INFO logger_File - user entered required information into sign up form
+2022-11-17 22:31:15,741 [main] INFO logger_File - Account was created
+2022-11-17 22:31:16,136 [main] INFO logger_File - Account was created
+2022-11-21 13:14:07,032 [main] INFO logger_File - React App is equal to React App
+2022-11-21 13:14:07,184 [main] INFO logger_File - User clicked on sign in option
+2022-11-21 13:14:07,495 [main] INFO logger_File - user entered email EmailValue and password PasswordValue
+2022-11-21 13:16:24,318 [main] INFO logger_File - React App is equal to React App
+2022-11-21 13:16:24,466 [main] INFO logger_File - User clicked on sign in option
+2022-11-21 13:16:24,776 [main] INFO logger_File - user entered email fake@fake.com and password Fake@123
+2022-11-21 13:16:24,874 [main] INFO logger_File - user clicked on login button
+2022-11-21 13:16:25,265 [main] INFO logger_File - user logged in into account
+2022-11-21 13:28:28,484 [main] INFO logger_File - React App is equal to React App
+2022-11-21 13:28:28,639 [main] INFO logger_File - User clicked on sign in option
+2022-11-21 13:28:28,931 [main] INFO logger_File - user entered email fake@fake.com and password Fake@123
+2022-11-21 13:28:29,025 [main] INFO logger_File - user clicked on login button
+2022-11-21 13:28:29,389 [main] INFO logger_File - user logged in into account
+2022-11-21 13:37:57,635 [main] INFO logger_File - React App is equal to React App
+2022-11-21 13:37:57,801 [main] INFO logger_File - User clicked on sign in option
+2022-11-21 13:37:58,104 [main] INFO logger_File - user entered email fake@fake.com and password Fake@123
+2022-11-21 13:37:58,196 [main] INFO logger_File - user clicked on login button
+2022-11-21 13:37:58,577 [main] INFO logger_File - user logged in into account
+2022-11-21 13:37:58,705 [main] INFO logger_File - User Clicked on account button
+2022-11-21 14:17:17,175 [main] INFO logger_File - React App is equal to React App
+2022-11-21 14:17:17,324 [main] INFO logger_File - User clicked on sign in option
+2022-11-21 14:17:17,621 [main] INFO logger_File - user entered email fake@fake.com and password Fake@123
+2022-11-21 14:17:17,708 [main] INFO logger_File - user clicked on login button
+2022-11-21 14:17:18,099 [main] INFO logger_File - user logged in into account
+2022-11-21 14:17:18,261 [main] INFO logger_File - User Clicked on account button
+2022-11-21 14:20:25,254 [main] INFO logger_File - React App is equal to React App
+2022-11-21 14:20:25,390 [main] INFO logger_File - User clicked on sign in option
+2022-11-21 14:20:25,686 [main] INFO logger_File - user entered email fake@fake.com and password Fake@123
+2022-11-21 14:20:25,775 [main] INFO logger_File - user clicked on login button
+2022-11-21 14:20:26,130 [main] INFO logger_File - user logged in into account
+2022-11-21 14:20:26,288 [main] INFO logger_File - User Clicked on account button
+2022-11-21 14:21:11,301 [main] INFO logger_File - React App is equal to React App
+2022-11-21 14:21:11,474 [main] INFO logger_File - User clicked on sign in option
+2022-11-21 14:21:11,805 [main] INFO logger_File - user entered email fake@fake.com and password Fake@123
+2022-11-21 14:21:11,887 [main] INFO logger_File - user clicked on login button
+2022-11-21 14:21:12,260 [main] INFO logger_File - user logged in into account
+2022-11-21 14:21:12,397 [main] INFO logger_File - User Clicked on account button
+2022-11-21 14:28:07,840 [main] INFO logger_File - React App is equal to React App
+2022-11-21 14:28:07,989 [main] INFO logger_File - User clicked on sign in option
+2022-11-21 14:28:08,297 [main] INFO logger_File - user entered email fake@fake.com and password Fake@123
+2022-11-21 14:28:08,387 [main] INFO logger_File - user clicked on login button
+2022-11-21 14:28:08,751 [main] INFO logger_File - user logged in into account
+2022-11-21 14:28:08,881 [main] INFO logger_File - User Clicked on account button
+2022-11-21 14:35:50,516 [main] INFO logger_File - React App is equal to React App
+2022-11-21 14:35:50,685 [main] INFO logger_File - User clicked on sign in option
+2022-11-21 14:35:50,994 [main] INFO logger_File - user entered email fake@fake.com and password Fake@123
+2022-11-21 14:35:51,087 [main] INFO logger_File - user clicked on login button
+2022-11-21 14:35:51,447 [main] INFO logger_File - user logged in into account
+2022-11-21 14:35:51,587 [main] INFO logger_File - User Clicked on account button
+2022-11-21 14:35:51,973 [main] INFO logger_File - User Changed his NameValueAnd his NumberValue
+2022-11-21 14:35:52,119 [main] INFO logger_File - Update Button was clicked
+2022-11-21 14:38:42,819 [main] INFO logger_File - React App is equal to React App
+2022-11-21 14:38:42,970 [main] INFO logger_File - User clicked on sign in option
+2022-11-21 14:38:43,280 [main] INFO logger_File - user entered email fake@fake.com and password Fake@123
+2022-11-21 14:38:43,377 [main] INFO logger_File - user clicked on login button
+2022-11-21 14:38:43,842 [main] INFO logger_File - user logged in into account
+2022-11-21 14:38:43,979 [main] INFO logger_File - User Clicked on account button
+2022-11-21 14:38:44,369 [main] INFO logger_File - User Changed his NewSampleNameAnd his 0987656789
+2022-11-21 14:38:44,475 [main] INFO logger_File - Update Button was clicked
+2022-11-21 14:52:02,091 [main] INFO logger_File - React App is equal to React App
+2022-11-21 14:52:02,642 [main] INFO logger_File - User clicked on sign in option
+2022-11-21 14:52:03,554 [main] INFO logger_File - user entered email fake@fake.com and password Fake@123
+2022-11-21 14:52:03,739 [main] INFO logger_File - user clicked on login button
+2022-11-21 14:52:04,151 [main] INFO logger_File - user logged in into account
+2022-11-21 14:52:04,295 [main] INFO logger_File - User Clicked on account button
+2022-11-21 14:52:04,672 [main] INFO logger_File - User Changed his NewSampleNameAnd his 0987656789
+2022-11-21 14:52:04,759 [main] INFO logger_File - Update Button was clicked
+2022-11-21 15:57:01,203 [main] INFO logger_File - React App is equal to React App
+2022-11-21 15:57:01,433 [main] INFO logger_File - User clicked on sign in option
+2022-11-21 15:57:01,870 [main] INFO logger_File - user entered email fake@fake.com and password Fake@123
+2022-11-21 15:57:01,987 [main] INFO logger_File - user clicked on login button
+2022-11-21 15:57:02,356 [main] INFO logger_File - user logged in into account
+2022-11-21 15:57:02,549 [main] INFO logger_File - User Clicked on account button
+2022-11-21 15:57:03,060 [main] INFO logger_File - User Changed his NewSampleNameAnd his 0987656789
+2022-11-21 15:57:03,159 [main] INFO logger_File - Update Button was clicked
+2022-11-21 15:57:03,189 [main] INFO logger_File - The Confirmation message was displayed
+2022-11-21 15:59:49,530 [main] INFO logger_File - React App is equal to React App
+2022-11-21 15:59:49,693 [main] INFO logger_File - User clicked on sign in option
+2022-11-21 15:59:49,993 [main] INFO logger_File - user entered email fake@fake.com and password Fake@123
+2022-11-21 15:59:50,085 [main] INFO logger_File - user clicked on login button
+2022-11-21 15:59:50,469 [main] INFO logger_File - user logged in into account
+2022-11-21 15:59:50,611 [main] INFO logger_File - User Clicked on account button
+2022-11-21 21:57:20,079 [main] INFO logger_File - React App is equal to React App
+2022-11-21 21:57:20,265 [main] INFO logger_File - User clicked on sign in option
+2022-11-21 21:57:20,592 [main] INFO logger_File - user entered email fake@fake.com and password Fake@123
+2022-11-21 21:57:20,686 [main] INFO logger_File - user clicked on login button
+2022-11-21 21:57:21,053 [main] INFO logger_File - user logged in into account
+2022-11-21 21:57:21,211 [main] INFO logger_File - User Clicked on account button
+2022-11-21 22:00:50,379 [main] INFO logger_File - React App is equal to React App
+2022-11-21 22:00:50,531 [main] INFO logger_File - User clicked on sign in option
+2022-11-21 22:00:50,821 [main] INFO logger_File - user entered email fake@fake.com and password Fake@123
+2022-11-21 22:00:50,908 [main] INFO logger_File - user clicked on login button
+2022-11-21 22:00:51,286 [main] INFO logger_File - user logged in into account
+2022-11-21 22:00:51,430 [main] INFO logger_File - User Clicked on account button
+2022-11-21 22:02:55,279 [main] INFO logger_File - React App is equal to React App
+2022-11-21 22:02:55,428 [main] INFO logger_File - User clicked on sign in option
+2022-11-21 22:02:55,726 [main] INFO logger_File - user entered email fake@fake.com and password Fake@123
+2022-11-21 22:02:55,815 [main] INFO logger_File - user clicked on login button
+2022-11-21 22:02:56,187 [main] INFO logger_File - user logged in into account
+2022-11-21 22:02:56,332 [main] INFO logger_File - User Clicked on account button
+2022-11-21 22:16:04,664 [main] INFO logger_File - React App is equal to React App
+2022-11-21 22:16:04,790 [main] INFO logger_File - User clicked on sign in option
+2022-11-21 22:16:05,128 [main] INFO logger_File - user entered email fake@fake.com and password Fake@123
+2022-11-21 22:16:05,215 [main] INFO logger_File - user clicked on login button
+2022-11-21 22:16:05,592 [main] INFO logger_File - user logged in into account
+2022-11-21 22:16:05,737 [main] INFO logger_File - User Clicked on account button
+2022-11-21 22:16:06,268 [main] INFO logger_File - New Password was typed in
+2022-11-21 22:51:00,571 [main] INFO logger_File - React App is equal to React App
+2022-11-21 22:51:01,055 [main] INFO logger_File - User clicked on sign in option
+2022-11-21 22:51:01,558 [main] INFO logger_File - user entered email fake@fake.com and password Fake@123
+2022-11-21 22:51:01,721 [main] INFO logger_File - user clicked on login button
+2022-11-21 22:52:08,271 [main] INFO logger_File - React App is equal to React App
+2022-11-21 22:52:08,452 [main] INFO logger_File - User clicked on sign in option
+2022-11-21 22:52:08,816 [main] INFO logger_File - user entered email fake@fake.com and password Fake@12345
+2022-11-21 22:52:08,916 [main] INFO logger_File - user clicked on login button
+2022-11-21 22:52:09,294 [main] INFO logger_File - user logged in into account
+2022-11-21 22:52:09,436 [main] INFO logger_File - User Clicked on account button
+2022-11-21 22:52:09,925 [main] INFO logger_File - New Password was typed in
+2022-11-21 22:52:10,049 [main] INFO logger_File - The button was pressed
+2022-11-21 22:52:10,082 [main] INFO logger_File - The password was updated and success msg was displayed
+2022-11-21 22:52:45,843 [main] INFO logger_File - React App is equal to React App
+2022-11-21 22:52:45,998 [main] INFO logger_File - User clicked on sign in option
+2022-11-21 22:52:46,389 [main] INFO logger_File - user entered email fake@fake.com and password Fake@12345
+2022-11-21 22:52:46,490 [main] INFO logger_File - user clicked on login button
+2022-11-21 22:52:46,883 [main] INFO logger_File - user logged in into account
+2022-11-21 22:52:47,031 [main] INFO logger_File - User Clicked on account button
+2022-11-21 22:52:47,475 [main] INFO logger_File - New Password was typed in
+2022-11-21 22:52:47,574 [main] INFO logger_File - The button was pressed
+2022-11-21 22:52:47,601 [main] INFO logger_File - The password was updated and success msg was displayed
+2022-11-21 22:55:52,304 [main] INFO logger_File - React App is equal to React App
+2022-11-21 22:55:52,461 [main] INFO logger_File - User clicked on sign in option
+2022-11-21 22:55:52,814 [main] INFO logger_File - user entered email fake@fake.com and password Fake@12345
+2022-11-21 22:55:52,910 [main] INFO logger_File - user clicked on login button
+2022-11-21 22:57:01,031 [main] INFO logger_File - React App is equal to React App
+2022-11-21 22:57:01,410 [main] INFO logger_File - User clicked on sign in option
+2022-11-21 22:57:02,034 [main] INFO logger_File - user entered email fake@fake.com and password Fake@123454
+2022-11-21 22:57:02,173 [main] INFO logger_File - user clicked on login button
+2022-11-21 23:01:51,698 [main] INFO logger_File - React App is equal to React App
+2022-11-21 23:01:51,862 [main] INFO logger_File - User clicked on sign in option
+2022-11-21 23:01:52,165 [main] INFO logger_File - user entered email fake@fake.com and password Fake@12345
+2022-11-21 23:01:52,268 [main] INFO logger_File - user clicked on login button
+2022-11-22 06:47:58,801 [main] INFO logger_File - React App is equal to React App
+2022-11-22 06:47:58,984 [main] INFO logger_File - User clicked on sign in option
+2022-11-22 06:47:59,354 [main] INFO logger_File - user entered email fake@fake.com and password Fake@12345
+2022-11-22 06:47:59,458 [main] INFO logger_File - user clicked on login button
+2022-11-22 06:49:29,272 [main] INFO logger_File - React App is equal to React App
+2022-11-22 06:49:29,428 [main] INFO logger_File - User clicked on sign in option
+2022-11-22 06:49:29,739 [main] INFO logger_File - user entered email fake@fake.com and password Fake@123456
+2022-11-22 06:49:29,846 [main] INFO logger_File - user clicked on login button
+2022-11-22 06:57:50,681 [main] INFO logger_File - React App is equal to React App
+2022-11-22 06:57:50,842 [main] INFO logger_File - User clicked on sign in option
+2022-11-22 06:57:51,169 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@123456
+2022-11-22 06:57:51,251 [main] INFO logger_File - user clicked on login button
+2022-11-22 06:57:51,637 [main] INFO logger_File - user logged in into account
+2022-11-22 06:57:51,796 [main] INFO logger_File - User Clicked on account button
+2022-11-22 06:57:52,271 [main] INFO logger_File - New Password was typed in
+2022-11-22 06:57:52,364 [main] INFO logger_File - The button was pressed
+2022-11-22 06:59:16,087 [main] INFO logger_File - React App is equal to React App
+2022-11-22 06:59:16,285 [main] INFO logger_File - User clicked on sign in option
+2022-11-22 06:59:16,723 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@123456
+2022-11-22 06:59:16,808 [main] INFO logger_File - user clicked on login button
+2022-11-22 06:59:17,195 [main] INFO logger_File - user logged in into account
+2022-11-22 06:59:17,362 [main] INFO logger_File - User Clicked on account button
+2022-11-22 06:59:17,860 [main] INFO logger_File - New Password was typed in
+2022-11-22 06:59:17,969 [main] INFO logger_File - The button was pressed
+2022-11-22 07:02:06,557 [main] INFO logger_File - React App is equal to React App
+2022-11-22 07:02:06,709 [main] INFO logger_File - User clicked on sign in option
+2022-11-22 07:02:07,043 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@123456
+2022-11-22 07:02:07,126 [main] INFO logger_File - user clicked on login button
+2022-11-22 07:02:07,543 [main] INFO logger_File - user logged in into account
+2022-11-22 07:02:07,782 [main] INFO logger_File - User Clicked on account button
+2022-11-22 07:02:08,213 [main] INFO logger_File - New Password was typed in
+2022-11-22 07:02:08,300 [main] INFO logger_File - The button was pressed
+2022-11-22 07:04:51,675 [main] INFO logger_File - React App is equal to React App
+2022-11-22 07:04:51,844 [main] INFO logger_File - User clicked on sign in option
+2022-11-22 07:04:52,186 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234578
+2022-11-22 07:04:52,270 [main] INFO logger_File - user clicked on login button
+2022-11-22 07:04:52,643 [main] INFO logger_File - user logged in into account
+2022-11-22 07:04:52,795 [main] INFO logger_File - User Clicked on account button
+2022-11-22 07:04:53,283 [main] INFO logger_File - New Password was typed in
+2022-11-22 07:04:53,369 [main] INFO logger_File - The button was pressed
+2022-11-22 07:51:17,142 [main] INFO logger_File - React App is equal to React App
+2022-11-22 07:51:17,337 [main] INFO logger_File - User clicked on sign in option
+2022-11-22 07:51:17,882 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@123456
+2022-11-22 07:51:18,068 [main] INFO logger_File - user clicked on login button
+2022-11-22 07:51:18,442 [main] INFO logger_File - user logged in into account
+2022-11-22 07:51:18,598 [main] INFO logger_File - User Clicked on account button
+2022-11-22 07:51:19,092 [main] INFO logger_File - New Password was typed in
+2022-11-22 07:51:19,205 [main] INFO logger_File - The button was pressed
+2022-11-22 07:51:19,245 [main] INFO logger_File - The password was updated and success msg was displayed
+2022-11-22 07:56:49,462 [main] INFO logger_File - React App is equal to React App
+2022-11-22 07:56:49,621 [main] INFO logger_File - User clicked on sign in option
+2022-11-22 07:56:49,943 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@123457
+2022-11-22 07:56:50,035 [main] INFO logger_File - user clicked on login button
+2022-11-22 07:56:50,410 [main] INFO logger_File - user logged in into account
+2022-11-22 07:56:50,543 [main] INFO logger_File - User Clicked on account button
+2022-11-22 07:56:51,154 [main] INFO logger_File - New Password was typed in
+2022-11-22 07:56:51,331 [main] INFO logger_File - The button was pressed
+2022-11-22 07:56:51,360 [main] INFO logger_File - The password was updated and success msg was displayed
+2022-11-22 08:14:42,147 [main] INFO logger_File - React App is equal to React App
+2022-11-22 08:14:42,321 [main] INFO logger_File - User clicked on sign in option
+2022-11-22 08:14:42,653 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@123458
+2022-11-22 08:14:42,745 [main] INFO logger_File - user clicked on login button
+2022-11-22 08:14:43,107 [main] INFO logger_File - user logged in into account
+2022-11-22 08:14:43,278 [main] INFO logger_File - User Clicked on account button
+2022-11-22 08:38:57,793 [main] INFO logger_File - React App is equal to React App
+2022-11-22 08:38:57,968 [main] INFO logger_File - User clicked on sign in option
+2022-11-22 08:38:58,306 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@123458
+2022-11-22 08:38:58,474 [main] INFO logger_File - user clicked on login button
+2022-11-22 08:38:58,780 [main] INFO logger_File - user logged in into account
+2022-11-22 08:38:58,931 [main] INFO logger_File - User Clicked on account button
+2022-11-23 07:56:22,649 [main] INFO logger_File - React App is equal to React App
+2022-11-23 07:56:22,814 [main] INFO logger_File - User clicked on sign in option
+2022-11-23 07:56:23,239 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@123458
+2022-11-23 07:56:23,337 [main] INFO logger_File - user clicked on login button
+2022-11-23 07:56:24,314 [main] INFO logger_File - user logged in into account
+2022-11-23 07:56:24,473 [main] INFO logger_File - User Clicked on account button
+2022-11-23 07:57:15,254 [main] INFO logger_File - React App is equal to React App
+2022-11-23 07:57:15,410 [main] INFO logger_File - User clicked on sign in option
+2022-11-23 07:57:15,738 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@123458
+2022-11-23 07:57:15,833 [main] INFO logger_File - user clicked on login button
+2022-11-23 07:57:16,216 [main] INFO logger_File - user logged in into account
+2022-11-23 07:57:16,394 [main] INFO logger_File - User Clicked on account button
+2022-11-23 07:57:16,846 [main] INFO logger_File - New Password was typed in
+2022-11-23 07:57:16,964 [main] INFO logger_File - Password update button was clicked
+2022-11-23 08:01:18,516 [main] INFO logger_File - React App is equal to React App
+2022-11-23 08:01:18,675 [main] INFO logger_File - User clicked on sign in option
+2022-11-23 08:01:19,082 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@123459
+2022-11-23 08:01:19,178 [main] INFO logger_File - user clicked on login button
+2022-11-23 08:01:19,580 [main] INFO logger_File - user logged in into account
+2022-11-23 08:01:19,728 [main] INFO logger_File - User Clicked on account button
+2022-11-23 08:01:20,197 [main] INFO logger_File - New Password was typed in
+2022-11-23 08:01:20,294 [main] INFO logger_File - Password update button was clicked
+2022-11-23 08:05:33,555 [main] INFO logger_File - React App is equal to React App
+2022-11-23 08:05:33,714 [main] INFO logger_File - User clicked on sign in option
+2022-11-23 08:05:34,044 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234510
+2022-11-23 08:05:34,127 [main] INFO logger_File - user clicked on login button
+2022-11-23 08:05:34,525 [main] INFO logger_File - user logged in into account
+2022-11-23 08:05:34,666 [main] INFO logger_File - User Clicked on account button
+2022-11-23 08:05:35,166 [main] INFO logger_File - New Password was typed in
+2022-11-23 08:05:35,250 [main] INFO logger_File - Password update button was clicked
+2022-11-23 08:05:36,249 [main] INFO logger_File - The password was updated and success msg was displayed
+2022-11-23 08:09:11,187 [main] INFO logger_File - React App is equal to React App
+2022-11-23 08:09:11,328 [main] INFO logger_File - User clicked on sign in option
+2022-11-23 08:09:11,690 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234511
+2022-11-23 08:09:11,788 [main] INFO logger_File - user clicked on login button
+2022-11-23 08:09:12,159 [main] INFO logger_File - user logged in into account
+2022-11-23 08:09:12,311 [main] INFO logger_File - User Clicked on account button
+2022-11-23 08:28:21,748 [main] INFO logger_File - React App is equal to React App
+2022-11-23 08:28:21,931 [main] INFO logger_File - User clicked on sign in option
+2022-11-23 08:28:22,294 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234511
+2022-11-23 08:28:22,500 [main] INFO logger_File - user clicked on login button
+2022-11-23 08:28:22,846 [main] INFO logger_File - user logged in into account
+2022-11-23 08:28:23,022 [main] INFO logger_File - User Clicked on account button
+2022-11-23 08:35:00,382 [main] INFO logger_File - React App is equal to React App
+2022-11-23 08:35:00,833 [main] INFO logger_File - User clicked on sign in option
+2022-11-23 08:35:01,329 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234511
+2022-11-23 08:35:01,435 [main] INFO logger_File - user clicked on login button
+2022-11-23 08:35:01,861 [main] INFO logger_File - user logged in into account
+2022-11-23 08:35:02,137 [main] INFO logger_File - User Clicked on account button
+2022-11-23 09:03:14,211 [main] INFO logger_File - React App is equal to React App
+2022-11-23 09:03:14,396 [main] INFO logger_File - User clicked on sign in option
+2022-11-23 09:03:14,820 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234511
+2022-11-23 09:03:14,916 [main] INFO logger_File - user clicked on login button
+2022-11-23 09:03:15,296 [main] INFO logger_File - user logged in into account
+2022-11-23 09:03:15,480 [main] INFO logger_File - User Clicked on account button
+2022-11-23 09:12:09,796 [main] INFO logger_File - React App is equal to React App
+2022-11-23 09:12:09,927 [main] INFO logger_File - User clicked on sign in option
+2022-11-23 09:12:10,303 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234511
+2022-11-23 09:12:10,396 [main] INFO logger_File - user clicked on login button
+2022-11-23 09:12:10,772 [main] INFO logger_File - user logged in into account
+2022-11-23 09:12:10,904 [main] INFO logger_File - User Clicked on account button
+2022-11-23 09:12:12,851 [main] INFO logger_File - Add Your Card button was clicked
+2022-11-23 09:15:45,142 [main] INFO logger_File - React App is equal to React App
+2022-11-23 09:15:45,322 [main] INFO logger_File - User clicked on sign in option
+2022-11-23 09:15:45,653 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234511
+2022-11-23 09:15:45,755 [main] INFO logger_File - user clicked on login button
+2022-11-23 09:15:46,170 [main] INFO logger_File - user logged in into account
+2022-11-23 09:15:46,364 [main] INFO logger_File - User Clicked on account button
+2022-11-23 09:15:48,455 [main] INFO logger_File - Add Your Card button was clicked
+2022-11-23 09:21:42,757 [main] INFO logger_File - React App is equal to React App
+2022-11-23 09:21:42,918 [main] INFO logger_File - User clicked on sign in option
+2022-11-23 09:21:43,313 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234511
+2022-11-23 09:21:43,413 [main] INFO logger_File - user clicked on login button
+2022-11-23 09:21:43,799 [main] INFO logger_File - user logged in into account
+2022-11-23 09:21:44,030 [main] INFO logger_File - User Clicked on account button
+2022-11-23 09:21:46,137 [main] INFO logger_File - Add Your Card button was clicked
+2022-11-23 09:22:10,737 [main] INFO logger_File - React App is equal to React App
+2022-11-23 09:22:10,885 [main] INFO logger_File - User clicked on sign in option
+2022-11-23 09:22:11,206 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234511
+2022-11-23 09:22:11,299 [main] INFO logger_File - user clicked on login button
+2022-11-23 09:22:11,687 [main] INFO logger_File - user logged in into account
+2022-11-23 09:22:11,839 [main] INFO logger_File - User Clicked on account button
+2022-11-23 09:22:13,929 [main] INFO logger_File - Add Your Card button was clicked
+2022-11-23 09:26:49,269 [main] INFO logger_File - React App is equal to React App
+2022-11-23 09:26:49,449 [main] INFO logger_File - User clicked on sign in option
+2022-11-23 09:26:49,788 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234511
+2022-11-23 09:26:49,897 [main] INFO logger_File - user clicked on login button
+2022-11-23 09:26:50,278 [main] INFO logger_File - user logged in into account
+2022-11-23 09:26:50,431 [main] INFO logger_File - User Clicked on account button
+2022-11-23 09:26:52,473 [main] INFO logger_File - Add Your Card button was clicked
+2022-11-23 09:30:23,555 [main] INFO logger_File - React App is equal to React App
+2022-11-23 09:30:23,727 [main] INFO logger_File - User clicked on sign in option
+2022-11-23 09:30:24,075 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234511
+2022-11-23 09:30:24,174 [main] INFO logger_File - user clicked on login button
+2022-11-23 09:30:24,555 [main] INFO logger_File - user logged in into account
+2022-11-23 09:30:24,760 [main] INFO logger_File - User Clicked on account button
+2022-11-23 09:30:25,236 [main] INFO logger_File - New Password was typed in
+2022-11-23 09:30:25,330 [main] INFO logger_File - Password update button was clicked
+2022-11-23 09:30:26,372 [main] INFO logger_File - The password was updated and success msg was displayed
+2022-11-23 09:31:48,066 [main] INFO logger_File - React App is equal to React App
+2022-11-23 09:31:48,408 [main] INFO logger_File - User clicked on sign in option
+2022-11-23 09:31:48,845 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-23 09:31:48,936 [main] INFO logger_File - user clicked on login button
+2022-11-23 09:31:49,330 [main] INFO logger_File - user logged in into account
+2022-11-23 09:31:49,480 [main] INFO logger_File - User Clicked on account button
+2022-11-23 09:31:51,414 [main] INFO logger_File - Add Your Card button was clicked
+2022-11-23 09:40:25,388 [main] INFO logger_File - React App is equal to React App
+2022-11-23 09:40:25,529 [main] INFO logger_File - User clicked on sign in option
+2022-11-23 09:40:25,856 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-23 09:40:25,952 [main] INFO logger_File - user clicked on login button
+2022-11-23 09:40:26,350 [main] INFO logger_File - user logged in into account
+2022-11-23 09:40:26,498 [main] INFO logger_File - User Clicked on account button
+2022-11-23 09:40:28,529 [main] INFO logger_File - Add Your Card button was clicked
+2022-11-23 09:46:47,770 [main] INFO logger_File - React App is equal to React App
+2022-11-23 09:46:47,963 [main] INFO logger_File - User clicked on sign in option
+2022-11-23 09:46:48,267 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-23 09:46:48,357 [main] INFO logger_File - user clicked on login button
+2022-11-23 09:46:48,730 [main] INFO logger_File - user logged in into account
+2022-11-23 09:46:48,871 [main] INFO logger_File - User Clicked on account button
+2022-11-23 09:46:50,660 [main] INFO logger_File - Credit Card Information were added
+2022-11-23 09:46:50,748 [main] INFO logger_File - Add Your Card button was clicked
+2022-11-23 09:47:52,557 [main] INFO logger_File - React App is equal to React App
+2022-11-23 09:47:52,721 [main] INFO logger_File - User clicked on sign in option
+2022-11-23 09:47:53,043 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-23 09:47:53,126 [main] INFO logger_File - user clicked on login button
+2022-11-23 09:47:53,503 [main] INFO logger_File - user logged in into account
+2022-11-23 09:47:53,642 [main] INFO logger_File - User Clicked on account button
+2022-11-23 09:47:55,521 [main] INFO logger_File - Credit Card Information were added
+2022-11-23 09:47:55,620 [main] INFO logger_File - Add Your Card button was clicked
+2022-11-23 09:48:40,864 [main] INFO logger_File - React App is equal to React App
+2022-11-23 09:48:41,004 [main] INFO logger_File - User clicked on sign in option
+2022-11-23 09:48:41,332 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-23 09:48:41,418 [main] INFO logger_File - user clicked on login button
+2022-11-23 09:48:41,789 [main] INFO logger_File - user logged in into account
+2022-11-23 09:48:41,960 [main] INFO logger_File - User Clicked on account button
+2022-11-23 09:48:43,805 [main] INFO logger_File - Credit Card Information were added
+2022-11-23 09:48:43,886 [main] INFO logger_File - Add Your Card button was clicked
+2022-11-23 09:50:04,509 [main] INFO logger_File - React App is equal to React App
+2022-11-23 09:50:04,719 [main] INFO logger_File - User clicked on sign in option
+2022-11-23 09:50:05,407 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-23 09:50:05,515 [main] INFO logger_File - user clicked on login button
+2022-11-23 09:50:05,889 [main] INFO logger_File - user logged in into account
+2022-11-23 09:50:06,083 [main] INFO logger_File - User Clicked on account button
+2022-11-23 09:50:08,055 [main] INFO logger_File - Credit Card Information were added
+2022-11-23 09:50:08,167 [main] INFO logger_File - Add Your Card button was clicked
+2022-11-23 09:50:08,941 [main] INFO logger_File - The success message was displayed
+2022-11-23 10:02:39,872 [main] INFO logger_File - React App is equal to React App
+2022-11-23 10:02:40,029 [main] INFO logger_File - User clicked on sign in option
+2022-11-23 10:02:40,342 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-23 10:02:40,431 [main] INFO logger_File - user clicked on login button
+2022-11-23 10:02:40,805 [main] INFO logger_File - user logged in into account
+2022-11-23 10:02:40,961 [main] INFO logger_File - User Clicked on account button
+2022-11-23 10:16:36,016 [main] INFO logger_File - React App is equal to React App
+2022-11-23 10:16:36,181 [main] INFO logger_File - User clicked on sign in option
+2022-11-23 10:16:36,551 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-23 10:16:36,637 [main] INFO logger_File - user clicked on login button
+2022-11-23 10:16:37,010 [main] INFO logger_File - user logged in into account
+2022-11-23 10:16:37,146 [main] INFO logger_File - User Clicked on account button
+2022-11-23 10:21:18,133 [main] INFO logger_File - React App is equal to React App
+2022-11-23 10:21:18,295 [main] INFO logger_File - User clicked on sign in option
+2022-11-23 10:21:18,619 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-23 10:21:18,718 [main] INFO logger_File - user clicked on login button
+2022-11-23 10:21:19,124 [main] INFO logger_File - user logged in into account
+2022-11-23 10:21:19,257 [main] INFO logger_File - User Clicked on account button
+2022-11-23 10:49:46,396 [main] INFO logger_File - React App is equal to React App
+2022-11-23 10:49:46,546 [main] INFO logger_File - User clicked on sign in option
+2022-11-23 10:49:46,965 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-23 10:49:47,073 [main] INFO logger_File - user clicked on login button
+2022-11-23 10:49:47,455 [main] INFO logger_File - user logged in into account
+2022-11-23 10:49:47,598 [main] INFO logger_File - User Clicked on account button
+2022-11-23 10:52:30,887 [main] INFO logger_File - React App is equal to React App
+2022-11-23 10:52:31,027 [main] INFO logger_File - User clicked on sign in option
+2022-11-23 10:52:31,402 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-23 10:52:31,494 [main] INFO logger_File - user clicked on login button
+2022-11-23 10:52:31,918 [main] INFO logger_File - user logged in into account
+2022-11-23 10:52:32,065 [main] INFO logger_File - User Clicked on account button
+2022-11-23 11:15:42,967 [main] INFO logger_File - React App is equal to React App
+2022-11-23 11:15:43,144 [main] INFO logger_File - User clicked on sign in option
+2022-11-23 11:15:43,489 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-23 11:15:43,577 [main] INFO logger_File - user clicked on login button
+2022-11-23 11:15:43,962 [main] INFO logger_File - user logged in into account
+2022-11-23 11:15:44,121 [main] INFO logger_File - User Clicked on account button
+2022-11-23 11:18:53,364 [main] INFO logger_File - React App is equal to React App
+2022-11-23 11:18:53,530 [main] INFO logger_File - User clicked on sign in option
+2022-11-23 11:18:53,893 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-23 11:18:53,999 [main] INFO logger_File - user clicked on login button
+2022-11-23 11:18:54,376 [main] INFO logger_File - user logged in into account
+2022-11-23 11:18:54,546 [main] INFO logger_File - User Clicked on account button
+2022-11-23 11:23:19,499 [main] INFO logger_File - React App is equal to React App
+2022-11-23 11:23:19,664 [main] INFO logger_File - User clicked on sign in option
+2022-11-23 11:23:20,007 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-23 11:23:20,101 [main] INFO logger_File - user clicked on login button
+2022-11-23 11:23:20,495 [main] INFO logger_File - user logged in into account
+2022-11-23 11:23:20,688 [main] INFO logger_File - User Clicked on account button
+2022-11-23 11:26:18,796 [main] INFO logger_File - React App is equal to React App
+2022-11-23 11:26:18,958 [main] INFO logger_File - User clicked on sign in option
+2022-11-23 11:26:19,352 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-23 11:26:19,436 [main] INFO logger_File - user clicked on login button
+2022-11-23 11:26:19,830 [main] INFO logger_File - user logged in into account
+2022-11-23 11:26:19,986 [main] INFO logger_File - User Clicked on account button
+2022-11-23 11:27:56,801 [main] INFO logger_File - React App is equal to React App
+2022-11-23 11:27:56,989 [main] INFO logger_File - User clicked on sign in option
+2022-11-23 11:27:57,336 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-23 11:27:57,440 [main] INFO logger_File - user clicked on login button
+2022-11-23 11:27:57,883 [main] INFO logger_File - user logged in into account
+2022-11-23 11:27:58,036 [main] INFO logger_File - User Clicked on account button
+2022-11-23 11:29:50,798 [main] INFO logger_File - React App is equal to React App
+2022-11-23 11:29:51,022 [main] INFO logger_File - User clicked on sign in option
+2022-11-23 11:29:51,350 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-23 11:29:51,442 [main] INFO logger_File - user clicked on login button
+2022-11-23 11:29:51,813 [main] INFO logger_File - user logged in into account
+2022-11-23 11:29:51,972 [main] INFO logger_File - User Clicked on account button
+2022-11-23 11:29:52,268 [main] INFO logger_File - User clicked on card on file and clicked on Edit button
+2022-11-23 11:29:53,625 [main] INFO logger_File - Credit Card Information were edited
+2022-11-23 11:29:53,766 [main] INFO logger_File - Update Your Card button was clicked
+2022-11-23 11:46:21,464 [main] INFO logger_File - React App is equal to React App
+2022-11-23 11:46:21,660 [main] INFO logger_File - User clicked on sign in option
+2022-11-23 11:46:21,978 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-23 11:46:22,065 [main] INFO logger_File - user clicked on login button
+2022-11-23 11:46:22,456 [main] INFO logger_File - user logged in into account
+2022-11-23 11:46:22,605 [main] INFO logger_File - User Clicked on account button
+2022-11-23 11:46:22,852 [main] INFO logger_File - User clicked on card on file and clicked on Edit button
+2022-11-23 11:46:24,189 [main] INFO logger_File - Credit Card Information were edited
+2022-11-23 11:46:24,287 [main] INFO logger_File - Update Your Card button was clicked
+2022-11-23 11:47:05,554 [main] INFO logger_File - React App is equal to React App
+2022-11-23 11:47:05,700 [main] INFO logger_File - User clicked on sign in option
+2022-11-23 11:47:06,038 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-23 11:47:06,124 [main] INFO logger_File - user clicked on login button
+2022-11-23 11:47:06,511 [main] INFO logger_File - user logged in into account
+2022-11-23 11:47:06,656 [main] INFO logger_File - User Clicked on account button
+2022-11-23 11:47:06,960 [main] INFO logger_File - User clicked on card on file and clicked on Edit button
+2022-11-23 11:47:08,311 [main] INFO logger_File - Credit Card Information were edited
+2022-11-23 11:47:08,405 [main] INFO logger_File - Update Your Card button was clicked
+2022-11-23 11:47:09,186 [main] INFO logger_File - Card Updated Success message was displayed
+2022-11-23 11:49:35,221 [main] INFO logger_File - React App is equal to React App
+2022-11-23 11:49:35,378 [main] INFO logger_File - User clicked on sign in option
+2022-11-23 11:49:35,745 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-23 11:49:35,914 [main] INFO logger_File - user clicked on login button
+2022-11-23 11:49:36,284 [main] INFO logger_File - user logged in into account
+2022-11-23 11:49:36,458 [main] INFO logger_File - User Clicked on account button
+2022-11-23 11:53:12,942 [main] INFO logger_File - React App is equal to React App
+2022-11-23 11:53:13,106 [main] INFO logger_File - User clicked on sign in option
+2022-11-23 11:53:13,423 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-23 11:53:13,521 [main] INFO logger_File - user clicked on login button
+2022-11-23 11:53:13,912 [main] INFO logger_File - user logged in into account
+2022-11-23 11:53:14,060 [main] INFO logger_File - User Clicked on account button
+2022-11-23 11:53:14,358 [main] INFO logger_File - Remove button was clicked
+2022-11-23 11:54:47,799 [main] INFO logger_File - React App is equal to React App
+2022-11-23 11:54:47,942 [main] INFO logger_File - User clicked on sign in option
+2022-11-23 11:54:48,342 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-23 11:54:48,442 [main] INFO logger_File - user clicked on login button
+2022-11-23 11:54:48,827 [main] INFO logger_File - user logged in into account
+2022-11-23 11:54:48,971 [main] INFO logger_File - User Clicked on account button
+2022-11-23 11:54:50,809 [main] INFO logger_File - Credit Card Information were added
+2022-11-23 11:54:50,916 [main] INFO logger_File - Add Your Card button was clicked
+2022-11-23 11:54:51,683 [main] INFO logger_File - The success message was displayed
+2022-11-23 11:55:49,937 [main] INFO logger_File - React App is equal to React App
+2022-11-23 11:55:50,088 [main] INFO logger_File - User clicked on sign in option
+2022-11-23 11:55:50,461 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-23 11:55:50,565 [main] INFO logger_File - user clicked on login button
+2022-11-23 11:55:51,000 [main] INFO logger_File - user logged in into account
+2022-11-23 11:55:51,139 [main] INFO logger_File - User Clicked on account button
+2022-11-23 11:55:52,939 [main] INFO logger_File - Credit Card Information were added
+2022-11-23 11:55:53,044 [main] INFO logger_File - Add Your Card button was clicked
+2022-11-23 11:55:53,815 [main] INFO logger_File - The success message was displayed
+2022-11-23 12:00:20,898 [main] INFO logger_File - React App is equal to React App
+2022-11-23 12:00:21,062 [main] INFO logger_File - User clicked on sign in option
+2022-11-23 12:00:21,417 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-23 12:00:21,507 [main] INFO logger_File - user clicked on login button
+2022-11-23 12:00:21,895 [main] INFO logger_File - user logged in into account
+2022-11-23 12:00:22,065 [main] INFO logger_File - User Clicked on account button
+2022-11-23 12:00:22,432 [main] INFO logger_File - Remove button was clicked
+2022-11-23 12:03:23,662 [main] INFO logger_File - React App is equal to React App
+2022-11-23 12:03:23,809 [main] INFO logger_File - User clicked on sign in option
+2022-11-23 12:03:24,154 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-23 12:03:24,243 [main] INFO logger_File - user clicked on login button
+2022-11-23 12:03:24,638 [main] INFO logger_File - user logged in into account
+2022-11-23 12:03:24,796 [main] INFO logger_File - User Clicked on account button
+2022-11-23 12:03:26,613 [main] INFO logger_File - Credit Card Information were added
+2022-11-23 12:03:26,712 [main] INFO logger_File - Add Your Card button was clicked
+2022-11-23 12:03:27,481 [main] INFO logger_File - The success message was displayed
+2022-11-23 12:03:56,797 [main] INFO logger_File - React App is equal to React App
+2022-11-23 12:03:56,968 [main] INFO logger_File - User clicked on sign in option
+2022-11-23 12:03:57,336 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-23 12:03:57,431 [main] INFO logger_File - user clicked on login button
+2022-11-23 12:03:57,848 [main] INFO logger_File - user logged in into account
+2022-11-23 12:03:58,024 [main] INFO logger_File - User Clicked on account button
+2022-11-23 12:03:58,657 [main] INFO logger_File - Remove button was clicked
+2022-11-23 12:03:58,658 [main] INFO logger_File - Payment method deleted
+2022-11-23 18:11:01,395 [main] INFO logger_File - React App is equal to React App
+2022-11-23 18:11:01,582 [main] INFO logger_File - User clicked on sign in option
+2022-11-23 18:11:01,962 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-23 18:11:02,067 [main] INFO logger_File - user clicked on login button
+2022-11-23 18:11:02,777 [main] INFO logger_File - user logged in into account
+2022-11-23 18:11:02,951 [main] INFO logger_File - User Clicked on account button
+2022-11-23 18:19:42,222 [main] INFO logger_File - React App is equal to React App
+2022-11-23 18:19:42,377 [main] INFO logger_File - User clicked on sign in option
+2022-11-23 18:19:42,701 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-23 18:19:42,784 [main] INFO logger_File - user clicked on login button
+2022-11-23 18:19:43,167 [main] INFO logger_File - user logged in into account
+2022-11-23 18:19:43,336 [main] INFO logger_File - User Clicked on account button
+2022-11-23 18:24:01,696 [main] INFO logger_File - React App is equal to React App
+2022-11-23 18:24:01,921 [main] INFO logger_File - User clicked on sign in option
+2022-11-23 18:24:02,356 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-23 18:24:02,471 [main] INFO logger_File - user clicked on login button
+2022-11-23 18:24:02,901 [main] INFO logger_File - user logged in into account
+2022-11-23 18:24:03,063 [main] INFO logger_File - User Clicked on account button
+2022-11-23 18:28:55,236 [main] INFO logger_File - React App is equal to React App
+2022-11-23 18:28:55,406 [main] INFO logger_File - User clicked on sign in option
+2022-11-23 18:28:55,745 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-23 18:28:55,843 [main] INFO logger_File - user clicked on login button
+2022-11-23 18:28:56,208 [main] INFO logger_File - user logged in into account
+2022-11-23 18:28:56,355 [main] INFO logger_File - User Clicked on account button
+2022-11-23 18:28:56,438 [main] INFO logger_File - Add Address box was clicked
+2022-11-23 18:45:38,687 [main] INFO logger_File - React App is equal to React App
+2022-11-23 18:45:38,881 [main] INFO logger_File - User clicked on sign in option
+2022-11-23 18:45:39,280 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-23 18:45:39,375 [main] INFO logger_File - user clicked on login button
+2022-11-23 18:45:39,741 [main] INFO logger_File - user logged in into account
+2022-11-23 18:45:39,928 [main] INFO logger_File - User Clicked on account button
+2022-11-23 18:45:41,775 [main] INFO logger_File - Credit Card Information were added
+2022-11-23 18:45:41,877 [main] INFO logger_File - Add Your Card button was clicked
+2022-11-23 18:45:42,643 [main] INFO logger_File - The success message was displayed
+2022-11-23 19:07:21,188 [main] INFO logger_File - React App is equal to React App
+2022-11-23 19:07:21,353 [main] INFO logger_File - User clicked on sign in option
+2022-11-23 19:07:21,681 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-23 19:07:21,766 [main] INFO logger_File - user clicked on login button
+2022-11-23 19:07:22,143 [main] INFO logger_File - user logged in into account
+2022-11-23 19:07:22,322 [main] INFO logger_File - User Clicked on account button
+2022-11-23 19:07:22,401 [main] INFO logger_File - Add Address box was clicked
+2022-11-23 19:32:45,788 [main] INFO logger_File - React App is equal to React App
+2022-11-23 19:32:45,951 [main] INFO logger_File - User clicked on sign in option
+2022-11-23 19:32:46,509 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-23 19:32:46,608 [main] INFO logger_File - user clicked on login button
+2022-11-23 19:32:46,996 [main] INFO logger_File - user logged in into account
+2022-11-23 19:32:47,190 [main] INFO logger_File - User Clicked on account button
+2022-11-23 19:32:47,315 [main] INFO logger_File - Add Address box was clicked
+2022-11-23 19:41:17,177 [main] INFO logger_File - React App is equal to React App
+2022-11-23 19:41:17,344 [main] INFO logger_File - User clicked on sign in option
+2022-11-23 19:41:17,689 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-23 19:41:17,777 [main] INFO logger_File - user clicked on login button
+2022-11-23 19:41:18,157 [main] INFO logger_File - user logged in into account
+2022-11-23 19:41:18,323 [main] INFO logger_File - User Clicked on account button
+2022-11-23 19:41:18,403 [main] INFO logger_File - Add Address box was clicked
+2022-11-23 19:41:20,651 [main] INFO logger_File - All required fields are filled
+2022-11-23 19:41:20,745 [main] INFO logger_File - Add your Address button was clicked
+2022-11-23 19:42:08,370 [main] INFO logger_File - React App is equal to React App
+2022-11-23 19:42:08,520 [main] INFO logger_File - User clicked on sign in option
+2022-11-23 19:42:08,846 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-23 19:42:08,945 [main] INFO logger_File - user clicked on login button
+2022-11-23 19:42:09,488 [main] INFO logger_File - user logged in into account
+2022-11-23 19:42:09,699 [main] INFO logger_File - User Clicked on account button
+2022-11-23 19:42:09,800 [main] INFO logger_File - Add Address box was clicked
+2022-11-23 19:42:11,973 [main] INFO logger_File - All required fields are filled
+2022-11-23 19:42:12,122 [main] INFO logger_File - Add your Address button was clicked
+2022-11-23 19:43:04,686 [main] INFO logger_File - React App is equal to React App
+2022-11-23 19:43:04,829 [main] INFO logger_File - User clicked on sign in option
+2022-11-23 19:43:05,161 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-23 19:43:05,259 [main] INFO logger_File - user clicked on login button
+2022-11-23 19:43:05,625 [main] INFO logger_File - user logged in into account
+2022-11-23 19:43:05,780 [main] INFO logger_File - User Clicked on account button
+2022-11-23 19:43:05,854 [main] INFO logger_File - Add Address box was clicked
+2022-11-23 19:43:08,102 [main] INFO logger_File - All required fields are filled
+2022-11-23 19:43:08,244 [main] INFO logger_File - Add your Address button was clicked
+2022-11-23 19:43:08,961 [main] INFO logger_File - Address added successfully message was displayed
+2022-11-23 19:50:53,608 [main] INFO logger_File - React App is equal to React App
+2022-11-23 19:50:53,789 [main] INFO logger_File - User clicked on sign in option
+2022-11-23 19:50:54,176 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-23 19:50:54,268 [main] INFO logger_File - user clicked on login button
+2022-11-23 19:50:54,635 [main] INFO logger_File - user logged in into account
+2022-11-23 19:50:54,785 [main] INFO logger_File - User Clicked on account button
+2022-11-23 20:01:39,830 [main] INFO logger_File - React App is equal to React App
+2022-11-23 20:01:40,012 [main] INFO logger_File - User clicked on sign in option
+2022-11-23 20:01:40,419 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-23 20:01:40,517 [main] INFO logger_File - user clicked on login button
+2022-11-23 20:01:40,897 [main] INFO logger_File - user logged in into account
+2022-11-23 20:01:41,084 [main] INFO logger_File - User Clicked on account button
+2022-11-23 20:01:41,425 [main] INFO logger_File - Add Address box was clicked
+2022-11-23 20:01:43,044 [main] INFO logger_File - All required fields are filled
+2022-11-23 20:01:43,122 [main] INFO logger_File - Update Your Address button was clicked
+2022-11-23 20:05:15,899 [main] INFO logger_File - React App is equal to React App
+2022-11-23 20:05:16,043 [main] INFO logger_File - User clicked on sign in option
+2022-11-23 20:05:16,435 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-23 20:05:16,530 [main] INFO logger_File - user clicked on login button
+2022-11-23 20:05:16,921 [main] INFO logger_File - user logged in into account
+2022-11-23 20:05:17,073 [main] INFO logger_File - User Clicked on account button
+2022-11-23 20:05:17,396 [main] INFO logger_File - Add Address box was clicked
+2022-11-23 20:19:52,691 [main] INFO logger_File - React App is equal to React App
+2022-11-23 20:19:52,884 [main] INFO logger_File - User clicked on sign in option
+2022-11-23 20:19:53,340 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-23 20:19:53,432 [main] INFO logger_File - user clicked on login button
+2022-11-23 20:19:53,831 [main] INFO logger_File - user logged in into account
+2022-11-23 20:19:53,983 [main] INFO logger_File - User Clicked on account button
+2022-11-23 20:19:54,520 [main] INFO logger_File - Edit Address text was clicked
+2022-11-23 20:19:56,911 [main] INFO logger_File - All required fields are filled
+2022-11-23 20:19:57,017 [main] INFO logger_File - Update Your Address button was clicked
+2022-11-23 20:54:59,942 [main] INFO logger_File - React App is equal to React App
+2022-11-23 20:55:00,533 [main] INFO logger_File - User clicked on sign in option
+2022-11-23 20:55:01,242 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-23 20:55:01,369 [main] INFO logger_File - user clicked on login button
+2022-11-23 20:55:01,775 [main] INFO logger_File - user logged in into account
+2022-11-23 20:55:01,960 [main] INFO logger_File - User Clicked on account button
+2022-11-23 20:55:02,170 [main] INFO logger_File - Edit Address text was clicked
+2022-11-23 20:55:04,756 [main] INFO logger_File - All required fields are filled
+2022-11-23 20:55:04,850 [main] INFO logger_File - Update Your Address button was clicked
+2022-11-23 21:02:07,167 [main] INFO logger_File - React App is equal to React App
+2022-11-23 21:02:07,365 [main] INFO logger_File - User clicked on sign in option
+2022-11-23 21:02:07,742 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-23 21:02:07,831 [main] INFO logger_File - user clicked on login button
+2022-11-23 21:02:08,190 [main] INFO logger_File - user logged in into account
+2022-11-23 21:02:08,316 [main] INFO logger_File - User Clicked on account button
+2022-11-23 21:02:08,538 [main] INFO logger_File - Edit Address text was clicked
+2022-11-23 21:02:10,931 [main] INFO logger_File - All required fields are filled
+2022-11-23 21:02:11,036 [main] INFO logger_File - Update Your Address button was clicked
+2022-11-23 21:02:54,361 [main] INFO logger_File - React App is equal to React App
+2022-11-23 21:02:54,502 [main] INFO logger_File - User clicked on sign in option
+2022-11-23 21:02:54,825 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-23 21:02:54,920 [main] INFO logger_File - user clicked on login button
+2022-11-23 21:02:55,353 [main] INFO logger_File - user logged in into account
+2022-11-23 21:02:55,498 [main] INFO logger_File - User Clicked on account button
+2022-11-23 21:02:55,925 [main] INFO logger_File - Edit Address text was clicked
+2022-11-23 21:02:58,178 [main] INFO logger_File - All required fields are filled
+2022-11-23 21:02:58,272 [main] INFO logger_File - Update Your Address button was clicked
+2022-11-23 21:09:55,076 [main] INFO logger_File - React App is equal to React App
+2022-11-23 21:09:55,219 [main] INFO logger_File - User clicked on sign in option
+2022-11-23 21:09:55,551 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-23 21:09:55,642 [main] INFO logger_File - user clicked on login button
+2022-11-23 21:09:56,007 [main] INFO logger_File - user logged in into account
+2022-11-23 21:09:56,140 [main] INFO logger_File - User Clicked on account button
+2022-11-23 21:09:56,469 [main] INFO logger_File - Edit Address text was clicked
+2022-11-23 21:09:58,878 [main] INFO logger_File - All required fields are filled
+2022-11-23 21:09:59,014 [main] INFO logger_File - Update Your Address button was clicked
+2022-11-23 21:18:09,767 [main] INFO logger_File - React App is equal to React App
+2022-11-23 21:18:09,942 [main] INFO logger_File - User clicked on sign in option
+2022-11-23 21:18:10,292 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-23 21:18:10,392 [main] INFO logger_File - user clicked on login button
+2022-11-23 21:18:10,767 [main] INFO logger_File - user logged in into account
+2022-11-23 21:18:10,915 [main] INFO logger_File - User Clicked on account button
+2022-11-23 21:18:11,151 [main] INFO logger_File - Edit Address text was clicked
+2022-11-23 21:18:13,532 [main] INFO logger_File - All required fields are filled
+2022-11-23 21:18:13,650 [main] INFO logger_File - Update Your Address button was clicked
+2022-11-23 21:36:11,737 [main] INFO logger_File - React App is equal to React App
+2022-11-23 21:36:12,044 [main] INFO logger_File - User clicked on sign in option
+2022-11-23 21:36:12,570 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-23 21:36:12,731 [main] INFO logger_File - user clicked on login button
+2022-11-23 21:36:13,150 [main] INFO logger_File - user logged in into account
+2022-11-23 21:36:13,418 [main] INFO logger_File - User Clicked on account button
+2022-11-23 21:36:15,512 [main] INFO logger_File - Credit Card Information were added
+2022-11-23 21:36:15,670 [main] INFO logger_File - Add Your Card button was clicked
+2022-11-23 21:36:16,506 [main] INFO logger_File - The success message was displayed
+2022-11-23 21:37:09,460 [main] INFO logger_File - React App is equal to React App
+2022-11-23 21:37:09,717 [main] INFO logger_File - User clicked on sign in option
+2022-11-23 21:37:10,168 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-23 21:37:10,327 [main] INFO logger_File - user clicked on login button
+2022-11-23 21:37:10,750 [main] INFO logger_File - user logged in into account
+2022-11-23 21:37:11,003 [main] INFO logger_File - User Clicked on account button
+2022-11-23 21:37:11,275 [main] INFO logger_File - Add Address box was clicked
+2022-11-23 21:37:14,118 [main] INFO logger_File - All required fields are filled
+2022-11-23 21:37:14,263 [main] INFO logger_File - Add your Address button was clicked
+2022-11-23 21:37:15,004 [main] INFO logger_File - Address added successfully message was displayed
+2022-11-23 21:38:41,048 [main] INFO logger_File - React App is equal to React App
+2022-11-23 21:38:41,499 [main] INFO logger_File - User clicked on sign in option
+2022-11-23 21:38:42,315 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-23 21:38:42,549 [main] INFO logger_File - user clicked on login button
+2022-11-23 21:38:43,017 [main] INFO logger_File - user logged in into account
+2022-11-23 21:38:43,443 [main] INFO logger_File - User Clicked on account button
+2022-11-23 21:38:43,670 [main] INFO logger_File - Edit Address text was clicked
+2022-11-23 21:38:47,060 [main] INFO logger_File - All required fields are filled
+2022-11-23 21:38:47,182 [main] INFO logger_File - Update Your Address button was clicked
+2022-11-23 21:49:54,605 [main] INFO logger_File - React App is equal to React App
+2022-11-23 21:49:54,842 [main] INFO logger_File - User clicked on sign in option
+2022-11-23 21:49:55,230 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-23 21:49:55,360 [main] INFO logger_File - user clicked on login button
+2022-11-23 21:49:55,732 [main] INFO logger_File - user logged in into account
+2022-11-23 21:49:55,910 [main] INFO logger_File - User Clicked on account button
+2022-11-23 21:49:56,176 [main] INFO logger_File - Edit Address text was clicked
+2022-11-23 21:49:58,364 [main] INFO logger_File - All required fields are filled
+2022-11-23 21:49:58,486 [main] INFO logger_File - Update Your Address button was clicked
+2022-11-23 21:53:40,164 [main] INFO logger_File - React App is equal to React App
+2022-11-23 21:53:40,386 [main] INFO logger_File - User clicked on sign in option
+2022-11-23 21:53:40,764 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-23 21:53:40,905 [main] INFO logger_File - user clicked on login button
+2022-11-23 21:53:41,287 [main] INFO logger_File - user logged in into account
+2022-11-23 21:53:41,510 [main] INFO logger_File - User Clicked on account button
+2022-11-23 21:53:41,804 [main] INFO logger_File - Edit Address text was clicked
+2022-11-23 21:53:44,009 [main] INFO logger_File - All required fields are filled
+2022-11-23 21:53:44,127 [main] INFO logger_File - Update Your Address button was clicked
+2022-11-23 21:58:58,476 [main] INFO logger_File - React App is equal to React App
+2022-11-23 21:58:58,694 [main] INFO logger_File - User clicked on sign in option
+2022-11-23 21:58:59,051 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-23 21:58:59,155 [main] INFO logger_File - user clicked on login button
+2022-11-23 21:58:59,535 [main] INFO logger_File - user logged in into account
+2022-11-23 21:58:59,706 [main] INFO logger_File - User Clicked on account button
+2022-11-23 21:59:00,571 [main] INFO logger_File - Edit Address text was clicked
+2022-11-23 21:59:03,805 [main] INFO logger_File - All required fields are filled
+2022-11-23 21:59:03,971 [main] INFO logger_File - Update Your Address button was clicked
+2022-11-23 22:00:03,013 [main] INFO logger_File - React App is equal to React App
+2022-11-23 22:00:03,386 [main] INFO logger_File - User clicked on sign in option
+2022-11-23 22:00:03,772 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-23 22:00:03,911 [main] INFO logger_File - user clicked on login button
+2022-11-23 22:00:04,512 [main] INFO logger_File - user logged in into account
+2022-11-23 22:00:04,716 [main] INFO logger_File - User Clicked on account button
+2022-11-23 22:00:04,862 [main] INFO logger_File - Edit Address text was clicked
+2022-11-23 22:00:07,162 [main] INFO logger_File - All required fields are filled
+2022-11-23 22:00:07,283 [main] INFO logger_File - Update Your Address button was clicked
+2022-11-23 22:01:07,676 [main] INFO logger_File - React App is equal to React App
+2022-11-23 22:01:07,884 [main] INFO logger_File - User clicked on sign in option
+2022-11-23 22:01:08,271 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-23 22:01:08,390 [main] INFO logger_File - user clicked on login button
+2022-11-23 22:01:08,778 [main] INFO logger_File - user logged in into account
+2022-11-23 22:01:09,045 [main] INFO logger_File - User Clicked on account button
+2022-11-23 22:01:09,371 [main] INFO logger_File - Edit Address text was clicked
+2022-11-23 22:01:11,497 [main] INFO logger_File - All required fields are filled
+2022-11-23 22:01:11,627 [main] INFO logger_File - Update Your Address button was clicked
+2022-11-23 22:01:12,399 [main] INFO logger_File - Address update success message was displayed
+2022-11-23 22:07:14,657 [main] INFO logger_File - React App is equal to React App
+2022-11-23 22:07:14,883 [main] INFO logger_File - User clicked on sign in option
+2022-11-23 22:07:15,342 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-23 22:07:15,441 [main] INFO logger_File - user clicked on login button
+2022-11-23 22:07:15,808 [main] INFO logger_File - user logged in into account
+2022-11-23 22:07:16,002 [main] INFO logger_File - User Clicked on account button
+2022-11-23 22:12:57,940 [main] INFO logger_File - React App is equal to React App
+2022-11-23 22:12:58,180 [main] INFO logger_File - User clicked on sign in option
+2022-11-23 22:12:58,583 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-23 22:12:58,690 [main] INFO logger_File - user clicked on login button
+2022-11-23 22:12:59,068 [main] INFO logger_File - user logged in into account
+2022-11-23 22:12:59,266 [main] INFO logger_File - User Clicked on account button
+2022-11-23 22:12:59,407 [main] INFO logger_File - Add Address box was clicked
+2022-11-23 22:13:03,035 [main] INFO logger_File - All required fields are filled
+2022-11-23 22:13:03,171 [main] INFO logger_File - Add your Address button was clicked
+2022-11-23 22:13:03,904 [main] INFO logger_File - Address added successfully message was displayed
+2022-11-23 22:13:58,712 [main] INFO logger_File - React App is equal to React App
+2022-11-23 22:13:58,940 [main] INFO logger_File - User clicked on sign in option
+2022-11-23 22:13:59,355 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-23 22:13:59,445 [main] INFO logger_File - user clicked on login button
+2022-11-23 22:13:59,865 [main] INFO logger_File - user logged in into account
+2022-11-23 22:14:00,776 [main] INFO logger_File - User Clicked on account button
+2022-11-23 22:14:01,135 [main] INFO logger_File - Remove address button was clicked
+2022-11-23 22:14:01,144 [main] INFO logger_File - Address was removed
+2022-11-23 22:14:21,460 [main] INFO logger_File - React App is equal to React App
+2022-11-23 22:14:21,714 [main] INFO logger_File - User clicked on sign in option
+2022-11-23 22:14:22,218 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-23 22:14:22,430 [main] INFO logger_File - user clicked on login button
+2022-11-23 22:14:22,782 [main] INFO logger_File - user logged in into account
+2022-11-23 22:14:22,996 [main] INFO logger_File - User Clicked on account button
+2022-11-23 22:14:23,484 [main] INFO logger_File - Remove address button was clicked
+2022-11-23 22:14:23,485 [main] INFO logger_File - Address was removed
+2022-11-23 23:24:19,667 [main] INFO logger_File - React App is equal to React App
+2022-11-24 14:10:57,511 [main] INFO logger_File - React App is equal to React App
+2022-11-24 14:42:12,734 [main] INFO logger_File - React App is equal to React App
+2022-11-24 14:43:11,223 [main] INFO logger_File - React App is equal to React App
+2022-11-24 14:44:14,496 [main] INFO logger_File - React App is equal to React App
+2022-11-24 14:44:15,155 [main] INFO logger_File - Side bar drop down list was verified
+2022-11-24 14:53:29,002 [main] INFO logger_File - React App is equal to React App
+2022-11-24 14:53:29,351 [main] INFO logger_File - Side bar drop down list was verified
+2022-11-24 14:55:53,285 [main] INFO logger_File - React App is equal to React App
+2022-11-24 14:55:57,164 [main] INFO logger_File - React App is equal to React App
+2022-11-24 14:56:01,525 [main] INFO logger_File - React App is equal to React App
+2022-11-24 14:56:05,496 [main] INFO logger_File - React App is equal to React App
+2022-11-24 14:56:09,539 [main] INFO logger_File - React App is equal to React App
+2022-11-24 15:55:09,052 [main] INFO logger_File - React App is equal to React App
+2022-11-24 15:55:14,290 [main] INFO logger_File - React App is equal to React App
+2022-11-24 15:55:19,268 [main] INFO logger_File - React App is equal to React App
+2022-11-24 15:55:24,246 [main] INFO logger_File - React App is equal to React App
+2022-11-24 15:55:31,655 [main] INFO logger_File - React App is equal to React App
+2022-11-24 15:57:33,042 [main] INFO logger_File - React App is equal to React App
+2022-11-24 15:57:36,917 [main] INFO logger_File - React App is equal to React App
+2022-11-24 15:57:40,870 [main] INFO logger_File - React App is equal to React App
+2022-11-24 15:57:44,813 [main] INFO logger_File - React App is equal to React App
+2022-11-24 15:57:48,929 [main] INFO logger_File - React App is equal to React App
+2022-11-24 16:13:06,959 [main] INFO logger_File - React App is equal to React App
+2022-11-24 16:13:11,338 [main] INFO logger_File - React App is equal to React App
+2022-11-24 16:13:15,419 [main] INFO logger_File - React App is equal to React App
+2022-11-24 16:13:19,627 [main] INFO logger_File - React App is equal to React App
+2022-11-24 16:13:24,262 [main] INFO logger_File - React App is equal to React App
+2022-11-24 16:16:39,016 [main] INFO logger_File - React App is equal to React App
+2022-11-24 16:16:43,091 [main] INFO logger_File - React App is equal to React App
+2022-11-24 16:16:47,154 [main] INFO logger_File - React App is equal to React App
+2022-11-24 16:16:51,515 [main] INFO logger_File - React App is equal to React App
+2022-11-24 16:16:56,337 [main] INFO logger_File - React App is equal to React App
+2022-11-24 16:21:01,146 [main] INFO logger_File - React App is equal to React App
+2022-11-24 16:21:05,977 [main] INFO logger_File - React App is equal to React App
+2022-11-24 16:21:10,190 [main] INFO logger_File - React App is equal to React App
+2022-11-24 16:21:14,497 [main] INFO logger_File - React App is equal to React App
+2022-11-24 16:21:21,967 [main] INFO logger_File - React App is equal to React App
+2022-11-24 16:55:51,535 [main] INFO logger_File - React App is equal to React App
+2022-11-24 16:57:51,306 [main] INFO logger_File - React App is equal to React App
+2022-11-24 17:03:52,156 [main] INFO logger_File - React App is equal to React App
+2022-11-24 17:34:18,716 [main] INFO logger_File - React App is equal to React App
+2022-11-24 17:43:03,158 [main] INFO logger_File - React App is equal to React App
+2022-11-24 17:44:28,265 [main] INFO logger_File - React App is equal to React App
+2022-11-24 17:45:55,083 [main] INFO logger_File - React App is equal to React App
+2022-11-24 17:52:36,517 [main] INFO logger_File - React App is equal to React App
+2022-11-24 17:54:22,466 [main] INFO logger_File - React App is equal to React App
+2022-11-24 17:55:32,419 [main] INFO logger_File - React App is equal to React App
+2022-11-24 17:56:47,602 [main] INFO logger_File - React App is equal to React App
+2022-11-24 18:02:08,656 [main] INFO logger_File - React App is equal to React App
+2022-11-24 18:02:33,316 [main] INFO logger_File - React App is equal to React App
+2022-11-24 18:04:13,292 [main] INFO logger_File - React App is equal to React App
+2022-11-24 18:04:17,260 [main] INFO logger_File - React App is equal to React App
+2022-11-24 18:05:17,113 [main] INFO logger_File - React App is equal to React App
+2022-11-24 18:05:21,014 [main] INFO logger_File - React App is equal to React App
+2022-11-24 18:06:16,759 [main] INFO logger_File - React App is equal to React App
+2022-11-24 18:06:20,588 [main] INFO logger_File - React App is equal to React App
+2022-11-24 18:08:42,710 [main] INFO logger_File - React App is equal to React App
+2022-11-24 18:08:46,671 [main] INFO logger_File - React App is equal to React App
+2022-11-24 18:18:01,237 [main] INFO logger_File - React App is equal to React App
+2022-11-24 18:18:05,524 [main] INFO logger_File - React App is equal to React App
+2022-11-24 18:18:09,631 [main] INFO logger_File - React App is equal to React App
+2022-11-24 18:18:13,543 [main] INFO logger_File - React App is equal to React App
+2022-11-24 18:18:18,027 [main] INFO logger_File - React App is equal to React App
+2022-11-24 18:21:50,328 [main] INFO logger_File - React App is equal to React App
+2022-11-24 18:21:50,482 [main] INFO logger_File - User clicked on sign in option
+2022-11-24 18:21:50,785 [main] INFO logger_File - user entered email EmailValue and password PasswordValue
+2022-11-24 18:24:44,517 [main] INFO logger_File - React App is equal to React App
+2022-11-24 18:24:44,661 [main] INFO logger_File - User clicked on sign in option
+2022-11-24 18:24:44,981 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-24 18:24:45,074 [main] INFO logger_File - user clicked on login button
+2022-11-24 18:24:45,436 [main] INFO logger_File - user logged in into account
+2022-11-24 18:35:33,277 [main] INFO logger_File - React App is equal to React App
+2022-11-24 18:35:33,421 [main] INFO logger_File - User clicked on sign in option
+2022-11-24 18:35:33,728 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-24 18:35:33,824 [main] INFO logger_File - user clicked on login button
+2022-11-24 18:35:34,511 [main] INFO logger_File - user logged in into account
+2022-11-24 18:40:12,673 [main] INFO logger_File - React App is equal to React App
+2022-11-24 18:40:12,868 [main] INFO logger_File - User clicked on sign in option
+2022-11-24 18:40:13,266 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-24 18:40:13,408 [main] INFO logger_File - user clicked on login button
+2022-11-24 18:40:14,019 [main] INFO logger_File - user logged in into account
+2022-11-24 18:51:21,019 [main] INFO logger_File - React App is equal to React App
+2022-11-24 18:51:21,158 [main] INFO logger_File - User clicked on sign in option
+2022-11-24 18:51:21,478 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-24 18:51:21,572 [main] INFO logger_File - user clicked on login button
+2022-11-24 18:51:21,929 [main] INFO logger_File - user logged in into account
+2022-11-24 18:58:49,093 [main] INFO logger_File - React App is equal to React App
+2022-11-24 18:58:49,273 [main] INFO logger_File - User clicked on sign in option
+2022-11-24 18:58:49,609 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-24 18:58:49,701 [main] INFO logger_File - user clicked on login button
+2022-11-24 18:58:50,057 [main] INFO logger_File - user logged in into account
+2022-11-24 19:07:21,136 [main] INFO logger_File - React App is equal to React App
+2022-11-24 19:07:21,290 [main] INFO logger_File - User clicked on sign in option
+2022-11-24 19:07:21,635 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-24 19:07:21,736 [main] INFO logger_File - user clicked on login button
+2022-11-24 19:07:22,092 [main] INFO logger_File - user logged in into account
+2022-11-24 19:38:24,407 [main] INFO logger_File - React App is equal to React App
+2022-11-24 19:38:31,448 [main] INFO logger_File - React App is equal to React App
+2022-11-24 19:38:36,811 [main] INFO logger_File - React App is equal to React App
+2022-11-24 19:38:41,288 [main] INFO logger_File - React App is equal to React App
+2022-11-24 19:38:46,202 [main] INFO logger_File - React App is equal to React App
+2022-11-24 19:42:40,590 [main] INFO logger_File - React App is equal to React App
+2022-11-24 19:44:55,022 [main] INFO logger_File - React App is equal to React App
+2022-11-24 19:47:22,427 [main] INFO logger_File - React App is equal to React App
+2022-11-24 19:55:14,108 [main] INFO logger_File - React App is equal to React App
+2022-11-24 19:57:56,020 [main] INFO logger_File - React App is equal to React App
+2022-11-24 19:59:05,598 [main] INFO logger_File - React App is equal to React App
+2022-11-24 20:04:00,011 [main] INFO logger_File - React App is equal to React App
+2022-11-24 20:04:00,504 [main] INFO logger_File - User clicked on sign in option
+2022-11-24 20:04:01,109 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-24 20:04:01,254 [main] INFO logger_File - user clicked on login button
+2022-11-24 20:04:01,596 [main] INFO logger_File - user logged in into account
+2022-11-24 20:04:37,956 [main] INFO logger_File - React App is equal to React App
+2022-11-24 20:04:38,090 [main] INFO logger_File - User clicked on sign in option
+2022-11-24 20:04:38,396 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-24 20:04:38,477 [main] INFO logger_File - user clicked on login button
+2022-11-24 20:04:38,845 [main] INFO logger_File - user logged in into account
+2022-11-24 20:09:44,911 [main] INFO logger_File - React App is equal to React App
+2022-11-24 20:09:45,123 [main] INFO logger_File - User clicked on sign in option
+2022-11-24 20:09:45,470 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-24 20:09:45,550 [main] INFO logger_File - user clicked on login button
+2022-11-24 20:09:45,908 [main] INFO logger_File - user logged in into account
+2022-11-24 20:10:17,338 [main] INFO logger_File - React App is equal to React App
+2022-11-24 20:10:17,518 [main] INFO logger_File - User clicked on sign in option
+2022-11-24 20:10:17,844 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-24 20:10:17,933 [main] INFO logger_File - user clicked on login button
+2022-11-24 20:10:18,343 [main] INFO logger_File - user logged in into account
+2022-11-24 20:10:58,076 [main] INFO logger_File - React App is equal to React App
+2022-11-24 20:10:58,232 [main] INFO logger_File - User clicked on sign in option
+2022-11-24 20:10:58,563 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-24 20:10:58,653 [main] INFO logger_File - user clicked on login button
+2022-11-24 20:10:59,020 [main] INFO logger_File - user logged in into account
+2022-11-24 20:12:06,100 [main] INFO logger_File - React App is equal to React App
+2022-11-24 20:12:06,270 [main] INFO logger_File - User clicked on sign in option
+2022-11-24 20:12:06,597 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-24 20:12:06,691 [main] INFO logger_File - user clicked on login button
+2022-11-24 20:12:07,055 [main] INFO logger_File - user logged in into account
+2022-11-24 20:12:32,520 [main] INFO logger_File - React App is equal to React App
+2022-11-24 20:12:32,670 [main] INFO logger_File - User clicked on sign in option
+2022-11-24 20:12:33,012 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-24 20:12:33,102 [main] INFO logger_File - user clicked on login button
+2022-11-24 20:12:33,467 [main] INFO logger_File - user logged in into account
+2022-11-24 20:14:56,972 [main] INFO logger_File - React App is equal to React App
+2022-11-24 20:14:57,111 [main] INFO logger_File - User clicked on sign in option
+2022-11-24 20:14:57,409 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-24 20:14:57,498 [main] INFO logger_File - user clicked on login button
+2022-11-24 20:14:57,861 [main] INFO logger_File - user logged in into account
+2022-11-24 20:17:14,309 [main] INFO logger_File - React App is equal to React App
+2022-11-24 20:17:14,484 [main] INFO logger_File - User clicked on sign in option
+2022-11-24 20:17:14,787 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-24 20:17:14,872 [main] INFO logger_File - user clicked on login button
+2022-11-24 20:17:15,248 [main] INFO logger_File - user logged in into account
+2022-11-24 20:19:37,989 [main] INFO logger_File - React App is equal to React App
+2022-11-24 20:19:38,150 [main] INFO logger_File - User clicked on sign in option
+2022-11-24 20:19:38,477 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-24 20:19:38,572 [main] INFO logger_File - user clicked on login button
+2022-11-24 20:19:38,929 [main] INFO logger_File - user logged in into account
+2022-11-24 20:23:49,522 [main] INFO logger_File - React App is equal to React App
+2022-11-24 20:23:49,672 [main] INFO logger_File - User clicked on sign in option
+2022-11-24 20:23:50,024 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-24 20:23:50,116 [main] INFO logger_File - user clicked on login button
+2022-11-24 20:23:50,483 [main] INFO logger_File - user logged in into account
+2022-11-24 20:27:30,057 [main] INFO logger_File - React App is equal to React App
+2022-11-24 20:27:30,306 [main] INFO logger_File - User clicked on sign in option
+2022-11-24 20:27:30,613 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-24 20:27:30,715 [main] INFO logger_File - user clicked on login button
+2022-11-24 20:27:31,087 [main] INFO logger_File - user logged in into account
+2022-11-24 20:36:40,083 [main] INFO logger_File - React App is equal to React App
+2022-11-24 20:36:40,241 [main] INFO logger_File - User clicked on sign in option
+2022-11-24 20:36:40,592 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-24 20:36:40,676 [main] INFO logger_File - user clicked on login button
+2022-11-24 20:36:41,042 [main] INFO logger_File - user logged in into account
+2022-11-24 20:43:42,425 [main] INFO logger_File - React App is equal to React App
+2022-11-24 20:43:42,590 [main] INFO logger_File - User clicked on sign in option
+2022-11-24 20:43:42,928 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-24 20:43:43,040 [main] INFO logger_File - user clicked on login button
+2022-11-24 20:43:43,392 [main] INFO logger_File - user logged in into account
+2022-11-24 20:45:36,509 [main] INFO logger_File - React App is equal to React App
+2022-11-24 20:45:36,657 [main] INFO logger_File - User clicked on sign in option
+2022-11-24 20:45:36,984 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-24 20:45:37,067 [main] INFO logger_File - user clicked on login button
+2022-11-24 20:45:37,444 [main] INFO logger_File - user logged in into account
+2022-11-24 20:48:27,849 [main] INFO logger_File - React App is equal to React App
+2022-11-24 20:48:28,021 [main] INFO logger_File - User clicked on sign in option
+2022-11-24 20:48:28,364 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-24 20:48:28,455 [main] INFO logger_File - user clicked on login button
+2022-11-24 20:48:28,821 [main] INFO logger_File - user logged in into account
+2022-11-24 21:42:49,947 [main] INFO logger_File - React App is equal to React App
+2022-11-24 21:42:50,238 [main] INFO logger_File - User clicked on sign in option
+2022-11-24 21:42:50,639 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-24 21:42:50,731 [main] INFO logger_File - user clicked on login button
+2022-11-24 21:42:51,103 [main] INFO logger_File - user logged in into account
+2022-11-24 21:42:51,251 [main] INFO logger_File - User Clicked on account button
+2022-11-24 21:43:44,552 [main] INFO logger_File - React App is equal to React App
+2022-11-24 21:43:44,817 [main] INFO logger_File - User clicked on sign in option
+2022-11-24 21:43:45,749 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-24 21:43:45,887 [main] INFO logger_File - user clicked on login button
+2022-11-24 21:43:46,338 [main] INFO logger_File - user logged in into account
+2022-11-24 21:43:46,575 [main] INFO logger_File - User Clicked on account button
+2022-11-24 21:43:46,782 [main] INFO logger_File - Add Address box was clicked
+2022-11-24 21:43:50,545 [main] INFO logger_File - All required fields are filled
+2022-11-24 21:43:50,721 [main] INFO logger_File - Add your Address button was clicked
+2022-11-24 21:43:51,417 [main] INFO logger_File - Address added successfully message was displayed
+2022-11-24 21:44:46,482 [main] INFO logger_File - React App is equal to React App
+2022-11-24 21:44:46,664 [main] INFO logger_File - User clicked on sign in option
+2022-11-24 21:44:47,062 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-24 21:44:47,165 [main] INFO logger_File - user clicked on login button
+2022-11-24 21:44:47,527 [main] INFO logger_File - user logged in into account
+2022-11-24 21:44:47,680 [main] INFO logger_File - User Clicked on account button
+2022-11-24 21:44:48,012 [main] INFO logger_File - Edit Address text was clicked
+2022-11-24 21:44:50,699 [main] INFO logger_File - All required fields are filled
+2022-11-24 21:44:50,821 [main] INFO logger_File - Update Your Address button was clicked
+2022-11-24 22:23:44,947 [main] INFO logger_File - React App is equal to React App
+2022-11-24 22:23:49,535 [main] INFO logger_File - React App is equal to React App
+2022-11-24 22:23:53,949 [main] INFO logger_File - React App is equal to React App
+2022-11-24 22:23:58,171 [main] INFO logger_File - React App is equal to React App
+2022-11-24 22:24:06,847 [main] INFO logger_File - React App is equal to React App
+2022-11-24 22:27:05,901 [main] INFO logger_File - React App is equal to React App
+2022-11-24 22:27:10,074 [main] INFO logger_File - React App is equal to React App
+2022-11-24 22:27:14,395 [main] INFO logger_File - React App is equal to React App
+2022-11-24 22:29:51,816 [main] INFO logger_File - React App is equal to React App
+2022-11-24 22:31:42,491 [main] INFO logger_File - React App is equal to React App
+2022-11-24 22:32:31,959 [main] INFO logger_File - React App is equal to React App
+2022-11-24 22:37:47,542 [main] INFO logger_File - React App is equal to React App
+2022-11-24 22:39:42,287 [main] INFO logger_File - React App is equal to React App
+2022-11-24 22:41:37,399 [main] INFO logger_File - React App is equal to React App
+2022-11-24 22:44:08,936 [main] INFO logger_File - React App is equal to React App
+2022-11-24 22:45:01,713 [main] INFO logger_File - React App is equal to React App
+2022-11-24 22:47:32,191 [main] INFO logger_File - React App is equal to React App
+2022-11-24 22:48:29,242 [main] INFO logger_File - React App is equal to React App
+2022-11-24 22:52:07,066 [main] INFO logger_File - React App is equal to React App
+2022-11-24 22:52:46,120 [main] INFO logger_File - React App is equal to React App
+2022-11-25 07:59:22,928 [main] INFO logger_File - React App is equal to React App
+2022-11-25 07:59:26,839 [main] INFO logger_File - React App is equal to React App
+2022-11-25 07:59:30,928 [main] INFO logger_File - React App is equal to React App
+2022-11-25 07:59:36,500 [main] INFO logger_File - React App is equal to React App
+2022-11-25 07:59:40,823 [main] INFO logger_File - React App is equal to React App
+2022-11-25 08:11:48,133 [main] INFO logger_File - React App is equal to React App
+2022-11-25 08:11:48,324 [main] INFO logger_File - User clicked on sign in option
+2022-11-25 08:11:48,653 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-25 08:11:48,739 [main] INFO logger_File - user clicked on login button
+2022-11-25 08:11:49,112 [main] INFO logger_File - user logged in into account
+2022-11-25 08:14:19,508 [main] INFO logger_File - React App is equal to React App
+2022-11-25 08:14:19,663 [main] INFO logger_File - User clicked on sign in option
+2022-11-25 08:14:19,966 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-25 08:14:20,053 [main] INFO logger_File - user clicked on login button
+2022-11-25 08:14:20,422 [main] INFO logger_File - user logged in into account
+2022-11-25 08:18:10,976 [main] INFO logger_File - React App is equal to React App
+2022-11-25 08:18:11,103 [main] INFO logger_File - User clicked on sign in option
+2022-11-25 08:18:11,404 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-25 08:18:11,482 [main] INFO logger_File - user clicked on login button
+2022-11-25 08:18:11,842 [main] INFO logger_File - user logged in into account
+2022-11-25 08:21:04,871 [main] INFO logger_File - React App is equal to React App
+2022-11-25 08:21:05,032 [main] INFO logger_File - User clicked on sign in option
+2022-11-25 08:21:05,351 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-25 08:21:05,446 [main] INFO logger_File - user clicked on login button
+2022-11-25 08:21:05,837 [main] INFO logger_File - user logged in into account
+2022-11-25 08:26:23,073 [main] INFO logger_File - React App is equal to React App
+2022-11-25 08:26:23,249 [main] INFO logger_File - User clicked on sign in option
+2022-11-25 08:26:23,607 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-25 08:26:23,690 [main] INFO logger_File - user clicked on login button
+2022-11-25 08:26:24,044 [main] INFO logger_File - user logged in into account
+2022-11-25 08:31:44,971 [main] INFO logger_File - React App is equal to React App
+2022-11-25 08:31:45,124 [main] INFO logger_File - User clicked on sign in option
+2022-11-25 08:31:45,442 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-25 08:31:45,524 [main] INFO logger_File - user clicked on login button
+2022-11-25 08:31:45,924 [main] INFO logger_File - user logged in into account
+2022-11-25 08:32:47,062 [main] INFO logger_File - React App is equal to React App
+2022-11-25 08:32:47,228 [main] INFO logger_File - User clicked on sign in option
+2022-11-25 08:32:47,570 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-25 08:32:47,660 [main] INFO logger_File - user clicked on login button
+2022-11-25 08:32:48,030 [main] INFO logger_File - user logged in into account
+2022-11-25 08:33:45,344 [main] INFO logger_File - React App is equal to React App
+2022-11-25 08:33:45,589 [main] INFO logger_File - User clicked on sign in option
+2022-11-25 08:33:45,929 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-25 08:33:46,018 [main] INFO logger_File - user clicked on login button
+2022-11-25 08:33:46,394 [main] INFO logger_File - user logged in into account
+2022-11-26 11:43:10,453 [main] INFO logger_File - React App is equal to React App
+2022-11-26 11:43:10,612 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 11:43:10,942 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 11:43:11,042 [main] INFO logger_File - user clicked on login button
+2022-11-26 11:43:12,070 [main] INFO logger_File - user logged in into account
+2022-11-26 11:49:55,908 [main] INFO logger_File - React App is equal to React App
+2022-11-26 11:49:56,087 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 11:49:56,421 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 11:49:56,506 [main] INFO logger_File - user clicked on login button
+2022-11-26 11:49:56,876 [main] INFO logger_File - user logged in into account
+2022-11-26 12:04:10,469 [main] INFO logger_File - React App is equal to React App
+2022-11-26 12:04:10,637 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 12:04:10,944 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 12:04:11,036 [main] INFO logger_File - user clicked on login button
+2022-11-26 12:04:11,394 [main] INFO logger_File - user logged in into account
+2022-11-26 12:05:24,630 [main] INFO logger_File - React App is equal to React App
+2022-11-26 12:05:24,780 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 12:05:25,085 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 12:05:25,177 [main] INFO logger_File - user clicked on login button
+2022-11-26 12:05:25,561 [main] INFO logger_File - user logged in into account
+2022-11-26 12:11:29,530 [main] INFO logger_File - React App is equal to React App
+2022-11-26 12:11:29,700 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 12:11:30,020 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 12:11:30,123 [main] INFO logger_File - user clicked on login button
+2022-11-26 12:11:30,494 [main] INFO logger_File - user logged in into account
+2022-11-26 12:23:13,690 [main] INFO logger_File - React App is equal to React App
+2022-11-26 12:23:13,863 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 12:23:14,251 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 12:23:14,348 [main] INFO logger_File - user clicked on login button
+2022-11-26 12:23:14,725 [main] INFO logger_File - user logged in into account
+2022-11-26 12:24:10,830 [main] INFO logger_File - React App is equal to React App
+2022-11-26 12:24:11,004 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 12:24:11,350 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 12:24:11,449 [main] INFO logger_File - user clicked on login button
+2022-11-26 12:24:11,823 [main] INFO logger_File - user logged in into account
+2022-11-26 12:27:37,519 [main] INFO logger_File - React App is equal to React App
+2022-11-26 12:27:37,677 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 12:27:37,985 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 12:27:38,085 [main] INFO logger_File - user clicked on login button
+2022-11-26 12:27:38,446 [main] INFO logger_File - user logged in into account
+2022-11-26 13:28:54,065 [main] INFO logger_File - React App is equal to React App
+2022-11-26 13:28:54,253 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 13:28:54,597 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 13:28:54,686 [main] INFO logger_File - user clicked on login button
+2022-11-26 13:28:55,054 [main] INFO logger_File - user logged in into account
+2022-11-26 13:31:45,156 [main] INFO logger_File - React App is equal to React App
+2022-11-26 13:31:45,331 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 13:31:45,646 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 13:31:45,749 [main] INFO logger_File - user clicked on login button
+2022-11-26 13:31:46,111 [main] INFO logger_File - user logged in into account
+2022-11-26 13:32:54,590 [main] INFO logger_File - React App is equal to React App
+2022-11-26 13:32:54,739 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 13:32:55,061 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 13:32:55,168 [main] INFO logger_File - user clicked on login button
+2022-11-26 13:32:55,524 [main] INFO logger_File - user logged in into account
+2022-11-26 13:34:01,373 [main] INFO logger_File - React App is equal to React App
+2022-11-26 13:34:01,593 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 13:34:02,014 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 13:34:02,138 [main] INFO logger_File - user clicked on login button
+2022-11-26 13:34:02,502 [main] INFO logger_File - user logged in into account
+2022-11-26 13:36:04,933 [main] INFO logger_File - React App is equal to React App
+2022-11-26 13:36:05,103 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 13:36:05,508 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 13:36:05,606 [main] INFO logger_File - user clicked on login button
+2022-11-26 13:36:06,074 [main] INFO logger_File - user logged in into account
+2022-11-26 13:36:54,811 [main] INFO logger_File - React App is equal to React App
+2022-11-26 13:36:54,962 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 13:36:55,276 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 13:36:55,369 [main] INFO logger_File - user clicked on login button
+2022-11-26 13:36:55,731 [main] INFO logger_File - user logged in into account
+2022-11-26 14:37:15,413 [main] INFO logger_File - React App is equal to React App
+2022-11-26 14:37:15,573 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 14:37:15,905 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 14:37:15,996 [main] INFO logger_File - user clicked on login button
+2022-11-26 14:37:16,371 [main] INFO logger_File - user logged in into account
+2022-11-26 14:40:38,919 [main] INFO logger_File - React App is equal to React App
+2022-11-26 14:40:39,076 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 14:40:39,397 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 14:40:39,497 [main] INFO logger_File - user clicked on login button
+2022-11-26 14:40:39,891 [main] INFO logger_File - user logged in into account
+2022-11-26 14:44:06,546 [main] INFO logger_File - React App is equal to React App
+2022-11-26 14:44:06,718 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 14:44:07,045 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 14:44:07,131 [main] INFO logger_File - user clicked on login button
+2022-11-26 14:44:07,502 [main] INFO logger_File - user logged in into account
+2022-11-26 14:49:27,334 [main] INFO logger_File - React App is equal to React App
+2022-11-26 14:49:27,511 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 14:49:27,852 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 14:49:27,945 [main] INFO logger_File - user clicked on login button
+2022-11-26 14:49:28,316 [main] INFO logger_File - user logged in into account
+2022-11-26 14:52:23,082 [main] INFO logger_File - React App is equal to React App
+2022-11-26 14:52:23,260 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 14:52:23,580 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 14:52:23,677 [main] INFO logger_File - user clicked on login button
+2022-11-26 14:52:24,117 [main] INFO logger_File - user logged in into account
+2022-11-26 14:54:29,853 [main] INFO logger_File - React App is equal to React App
+2022-11-26 14:54:30,021 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 14:54:30,401 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 14:54:30,489 [main] INFO logger_File - user clicked on login button
+2022-11-26 14:54:30,873 [main] INFO logger_File - user logged in into account
+2022-11-26 14:55:38,339 [main] INFO logger_File - React App is equal to React App
+2022-11-26 14:55:38,519 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 14:55:38,875 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 14:55:38,965 [main] INFO logger_File - user clicked on login button
+2022-11-26 14:55:39,344 [main] INFO logger_File - user logged in into account
+2022-11-26 14:56:53,587 [main] INFO logger_File - React App is equal to React App
+2022-11-26 14:56:53,733 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 14:56:54,066 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 14:56:54,162 [main] INFO logger_File - user clicked on login button
+2022-11-26 14:56:54,556 [main] INFO logger_File - user logged in into account
+2022-11-26 15:01:23,318 [main] INFO logger_File - React App is equal to React App
+2022-11-26 15:01:23,472 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 15:01:23,783 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 15:01:23,870 [main] INFO logger_File - user clicked on login button
+2022-11-26 15:01:24,235 [main] INFO logger_File - user logged in into account
+2022-11-26 15:03:52,282 [main] INFO logger_File - React App is equal to React App
+2022-11-26 15:03:52,443 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 15:03:52,792 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 15:03:52,877 [main] INFO logger_File - user clicked on login button
+2022-11-26 15:03:53,232 [main] INFO logger_File - user logged in into account
+2022-11-26 15:05:31,349 [main] INFO logger_File - React App is equal to React App
+2022-11-26 15:05:31,509 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 15:05:31,883 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 15:05:31,970 [main] INFO logger_File - user clicked on login button
+2022-11-26 15:05:32,343 [main] INFO logger_File - user logged in into account
+2022-11-26 15:12:16,775 [main] INFO logger_File - React App is equal to React App
+2022-11-26 15:12:17,046 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 15:12:17,572 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 15:12:17,705 [main] INFO logger_File - user clicked on login button
+2022-11-26 15:12:18,168 [main] INFO logger_File - user logged in into account
+2022-11-26 15:12:18,315 [main] INFO logger_File - User Change the category
+2022-11-26 15:12:18,495 [main] INFO logger_File - User searched for the desiered Item
+2022-11-26 15:12:18,601 [main] INFO logger_File - User clicked on search Icon
+2022-11-26 15:12:18,625 [main] INFO logger_File - Item is found and User clicked on its image
+2022-11-26 15:19:09,596 [main] INFO logger_File - React App is equal to React App
+2022-11-26 15:19:09,774 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 15:19:10,127 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 15:19:10,221 [main] INFO logger_File - user clicked on login button
+2022-11-26 15:19:10,597 [main] INFO logger_File - user logged in into account
+2022-11-26 15:19:10,704 [main] INFO logger_File - User Change the category
+2022-11-26 15:19:10,841 [main] INFO logger_File - User searched for the desiered Item
+2022-11-26 15:19:10,999 [main] INFO logger_File - User clicked on search Icon
+2022-11-26 15:19:11,065 [main] INFO logger_File - Item is found and User clicked on its image
+2022-11-26 15:20:11,439 [main] INFO logger_File - React App is equal to React App
+2022-11-26 15:20:11,584 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 15:20:12,030 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 15:20:12,132 [main] INFO logger_File - user clicked on login button
+2022-11-26 15:20:13,024 [main] INFO logger_File - user logged in into account
+2022-11-26 15:20:13,135 [main] INFO logger_File - User Change the category
+2022-11-26 15:20:13,221 [main] INFO logger_File - User searched for the desiered Item
+2022-11-26 15:20:13,325 [main] INFO logger_File - User clicked on search Icon
+2022-11-26 15:20:13,348 [main] INFO logger_File - Item is found and User clicked on its image
+2022-11-26 15:26:07,466 [main] INFO logger_File - React App is equal to React App
+2022-11-26 15:26:07,631 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 15:26:07,950 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 15:26:08,037 [main] INFO logger_File - user clicked on login button
+2022-11-26 15:26:08,411 [main] INFO logger_File - user logged in into account
+2022-11-26 15:26:08,515 [main] INFO logger_File - User Change the category
+2022-11-26 15:26:08,641 [main] INFO logger_File - User searched for the desiered Item
+2022-11-26 15:26:08,749 [main] INFO logger_File - User clicked on search Icon
+2022-11-26 15:26:08,798 [main] INFO logger_File - Item is found and User clicked on its image
+2022-11-26 15:28:14,149 [main] INFO logger_File - React App is equal to React App
+2022-11-26 15:28:14,305 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 15:28:14,677 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 15:28:14,799 [main] INFO logger_File - user clicked on login button
+2022-11-26 15:28:15,155 [main] INFO logger_File - user logged in into account
+2022-11-26 15:28:15,274 [main] INFO logger_File - User Change the category
+2022-11-26 15:28:15,473 [main] INFO logger_File - User searched for the desiered Item
+2022-11-26 15:28:15,647 [main] INFO logger_File - User clicked on search Icon
+2022-11-26 15:28:15,924 [main] INFO logger_File - Item is found and User clicked on its image
+2022-11-26 15:28:16,580 [main] INFO logger_File - User selected desiered quantity
+2022-11-26 15:28:16,873 [main] INFO logger_File - User clicked on add to cart button
+2022-11-26 15:30:22,513 [main] INFO logger_File - React App is equal to React App
+2022-11-26 15:30:22,653 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 15:30:22,962 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 15:30:23,054 [main] INFO logger_File - user clicked on login button
+2022-11-26 15:30:23,431 [main] INFO logger_File - user logged in into account
+2022-11-26 15:30:23,546 [main] INFO logger_File - User Change the category
+2022-11-26 15:30:23,704 [main] INFO logger_File - User searched for the desiered Item
+2022-11-26 15:30:23,824 [main] INFO logger_File - User clicked on search Icon
+2022-11-26 15:30:24,175 [main] INFO logger_File - Item is found and User clicked on its image
+2022-11-26 15:30:24,865 [main] INFO logger_File - User selected desiered quantity
+2022-11-26 15:30:25,161 [main] INFO logger_File - User clicked on add to cart button
+2022-11-26 15:37:08,514 [main] INFO logger_File - React App is equal to React App
+2022-11-26 15:37:08,662 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 15:37:08,973 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 15:37:09,072 [main] INFO logger_File - user clicked on login button
+2022-11-26 15:37:09,433 [main] INFO logger_File - user logged in into account
+2022-11-26 15:37:09,547 [main] INFO logger_File - User Change the category
+2022-11-26 15:37:09,695 [main] INFO logger_File - User searched for the desiered Item
+2022-11-26 15:37:09,843 [main] INFO logger_File - User clicked on search Icon
+2022-11-26 15:39:55,755 [main] INFO logger_File - React App is equal to React App
+2022-11-26 15:39:55,912 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 15:39:56,303 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 15:39:56,386 [main] INFO logger_File - user clicked on login button
+2022-11-26 15:39:56,783 [main] INFO logger_File - user logged in into account
+2022-11-26 15:39:56,901 [main] INFO logger_File - User Change the category
+2022-11-26 15:39:57,019 [main] INFO logger_File - User searched for the desiered Item
+2022-11-26 15:39:57,144 [main] INFO logger_File - User clicked on search Icon
+2022-11-26 15:39:57,379 [main] INFO logger_File - Item is found and User clicked on its image
+2022-11-26 15:39:58,098 [main] INFO logger_File - User selected desiered quantity
+2022-11-26 15:39:58,407 [main] INFO logger_File - User clicked on add to cart button
+2022-11-26 15:44:11,813 [main] INFO logger_File - React App is equal to React App
+2022-11-26 15:44:11,968 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 15:44:12,325 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 15:44:12,430 [main] INFO logger_File - user clicked on login button
+2022-11-26 15:44:12,790 [main] INFO logger_File - user logged in into account
+2022-11-26 15:44:12,905 [main] INFO logger_File - User Change the category
+2022-11-26 15:44:13,012 [main] INFO logger_File - User searched for the desiered Item
+2022-11-26 15:44:13,135 [main] INFO logger_File - User clicked on search Icon
+2022-11-26 15:44:13,373 [main] INFO logger_File - Item is found and User clicked on its image
+2022-11-26 15:44:13,668 [main] INFO logger_File - User selected desiered quantity
+2022-11-26 15:44:13,710 [main] INFO logger_File - User clicked on add to cart button
+2022-11-26 16:45:07,002 [main] INFO logger_File - React App is equal to React App
+2022-11-26 16:45:07,159 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 16:45:07,489 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 16:45:07,598 [main] INFO logger_File - user clicked on login button
+2022-11-26 16:45:07,991 [main] INFO logger_File - user logged in into account
+2022-11-26 16:45:08,094 [main] INFO logger_File - User Change the category
+2022-11-26 16:45:08,231 [main] INFO logger_File - User searched for the desiered Item
+2022-11-26 16:45:08,325 [main] INFO logger_File - User clicked on search Icon
+2022-11-26 16:45:08,616 [main] INFO logger_File - Item is found and User clicked on its image
+2022-11-26 16:45:08,966 [main] INFO logger_File - User selected desiered quantity
+2022-11-26 16:45:09,017 [main] INFO logger_File - User clicked on add to cart button
+2022-11-26 16:48:01,143 [main] INFO logger_File - React App is equal to React App
+2022-11-26 16:48:01,324 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 16:48:01,698 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 16:48:01,810 [main] INFO logger_File - user clicked on login button
+2022-11-26 16:48:02,206 [main] INFO logger_File - user logged in into account
+2022-11-26 16:48:02,334 [main] INFO logger_File - User Change the category
+2022-11-26 16:48:02,457 [main] INFO logger_File - User searched for the desiered Item
+2022-11-26 16:48:02,577 [main] INFO logger_File - User clicked on search Icon
+2022-11-26 16:48:02,854 [main] INFO logger_File - Item is found and User clicked on its image
+2022-11-26 16:48:03,173 [main] INFO logger_File - User selected desiered quantity
+2022-11-26 16:48:03,216 [main] INFO logger_File - User clicked on add to cart button
+2022-11-26 16:48:03,527 [main] INFO logger_File - Cart Button Was Clicked
+2022-11-26 16:48:03,609 [main] INFO logger_File - Proceed to Checkout Button Was Clicked
+2022-11-26 16:48:03,637 [main] INFO logger_File - Place Your Order Button is disabled, Customer can not place an order without address and payment method on file
+2022-11-26 16:49:35,122 [main] INFO logger_File - React App is equal to React App
+2022-11-26 16:49:35,258 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 16:49:35,573 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 16:49:35,694 [main] INFO logger_File - user clicked on login button
+2022-11-26 16:49:36,062 [main] INFO logger_File - user logged in into account
+2022-11-26 16:49:36,169 [main] INFO logger_File - User Change the category
+2022-11-26 16:49:36,308 [main] INFO logger_File - User searched for the desiered Item
+2022-11-26 16:49:36,599 [main] INFO logger_File - User clicked on search Icon
+2022-11-26 17:05:17,788 [main] INFO logger_File - React App is equal to React App
+2022-11-26 17:05:17,950 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 17:05:18,268 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 17:05:18,364 [main] INFO logger_File - user clicked on login button
+2022-11-26 17:05:18,724 [main] INFO logger_File - user logged in into account
+2022-11-26 17:05:18,834 [main] INFO logger_File - User Change the category
+2022-11-26 17:05:18,982 [main] INFO logger_File - User searched for the desiered Item
+2022-11-26 17:05:19,091 [main] INFO logger_File - User clicked on search Icon
+2022-11-26 17:05:19,185 [main] INFO logger_File - Item is found and User clicked on its image
+2022-11-26 17:23:24,784 [main] INFO logger_File - React App is equal to React App
+2022-11-26 17:23:24,959 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 17:23:25,258 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 17:23:25,346 [main] INFO logger_File - user clicked on login button
+2022-11-26 17:23:25,722 [main] INFO logger_File - user logged in into account
+2022-11-26 17:23:25,830 [main] INFO logger_File - User Change the category
+2022-11-26 17:23:25,968 [main] INFO logger_File - User searched for the desiered Item
+2022-11-26 17:23:26,081 [main] INFO logger_File - User clicked on search Icon
+2022-11-26 17:23:26,131 [main] INFO logger_File - Item is found and User clicked on its image
+2022-11-26 17:32:42,859 [main] INFO logger_File - React App is equal to React App
+2022-11-26 17:32:43,029 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 17:32:43,433 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 17:32:43,533 [main] INFO logger_File - user clicked on login button
+2022-11-26 17:32:43,932 [main] INFO logger_File - user logged in into account
+2022-11-26 17:32:44,047 [main] INFO logger_File - User Change the category
+2022-11-26 17:32:44,201 [main] INFO logger_File - User searched for the desiered Item
+2022-11-26 17:32:44,332 [main] INFO logger_File - User clicked on search Icon
+2022-11-26 17:32:44,569 [main] INFO logger_File - Item is found and User clicked on its image
+2022-11-26 17:32:44,878 [main] INFO logger_File - User selected desiered quantity
+2022-11-26 17:32:44,916 [main] INFO logger_File - User clicked on add to cart button
+2022-11-26 17:34:27,855 [main] INFO logger_File - React App is equal to React App
+2022-11-26 17:34:28,042 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 17:34:28,396 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 17:34:28,488 [main] INFO logger_File - user clicked on login button
+2022-11-26 17:34:28,849 [main] INFO logger_File - user logged in into account
+2022-11-26 17:34:28,959 [main] INFO logger_File - User Change the category
+2022-11-26 17:34:29,054 [main] INFO logger_File - User searched for the desiered Item
+2022-11-26 17:34:29,180 [main] INFO logger_File - User clicked on search Icon
+2022-11-26 17:34:29,414 [main] INFO logger_File - Item is found and User clicked on its image
+2022-11-26 17:34:29,759 [main] INFO logger_File - User selected desiered quantity
+2022-11-26 17:34:29,811 [main] INFO logger_File - User clicked on add to cart button
+2022-11-26 17:34:30,135 [main] INFO logger_File - Cart Button Was Clicked
+2022-11-26 17:34:30,228 [main] INFO logger_File - Proceed to Checkout Button Was Clicked
+2022-11-26 17:34:30,261 [main] INFO logger_File - Place Your Order Button is disabled, Customer can not place an order without address and payment method on file
+2022-11-26 17:35:17,630 [main] INFO logger_File - React App is equal to React App
+2022-11-26 17:35:17,844 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 17:35:18,163 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 17:35:18,258 [main] INFO logger_File - user clicked on login button
+2022-11-26 17:35:18,620 [main] INFO logger_File - user logged in into account
+2022-11-26 17:35:18,714 [main] INFO logger_File - User Change the category
+2022-11-26 17:35:18,851 [main] INFO logger_File - User searched for the desiered Item
+2022-11-26 17:35:19,040 [main] INFO logger_File - User clicked on search Icon
+2022-11-26 17:35:19,336 [main] INFO logger_File - Item is found and User clicked on its image
+2022-11-26 17:35:19,626 [main] INFO logger_File - User selected desiered quantity
+2022-11-26 17:35:19,675 [main] INFO logger_File - User clicked on add to cart button
+2022-11-26 17:35:19,990 [main] INFO logger_File - Cart Button Was Clicked
+2022-11-26 17:35:20,081 [main] INFO logger_File - Proceed to Checkout Button Was Clicked
+2022-11-26 17:51:19,919 [main] INFO logger_File - React App is equal to React App
+2022-11-26 17:51:20,059 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 17:51:20,390 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 17:51:20,473 [main] INFO logger_File - user clicked on login button
+2022-11-26 17:51:20,856 [main] INFO logger_File - user logged in into account
+2022-11-26 17:51:20,960 [main] INFO logger_File - User Change the category
+2022-11-26 17:51:21,128 [main] INFO logger_File - User searched for the desiered Item
+2022-11-26 17:51:21,267 [main] INFO logger_File - User clicked on search Icon
+2022-11-26 17:51:21,513 [main] INFO logger_File - Item is found and User clicked on its image
+2022-11-26 17:51:21,791 [main] INFO logger_File - User selected desiered quantity
+2022-11-26 17:51:21,879 [main] INFO logger_File - User clicked on add to cart button
+2022-11-26 17:51:21,994 [main] INFO logger_File - Cart Button Was Clicked
+2022-11-26 17:51:22,087 [main] INFO logger_File - Proceed to Checkout Button Was Clicked
+2022-11-26 17:51:22,213 [main] INFO logger_File - Add a New Address was clicked
+2022-11-26 17:51:22,351 [main] INFO logger_File - Add your Address button was clicked
+2022-11-26 17:56:01,429 [main] INFO logger_File - React App is equal to React App
+2022-11-26 17:56:01,632 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 17:56:02,056 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 17:56:02,177 [main] INFO logger_File - user clicked on login button
+2022-11-26 17:56:02,520 [main] INFO logger_File - user logged in into account
+2022-11-26 17:56:02,720 [main] INFO logger_File - User Change the category
+2022-11-26 17:56:02,944 [main] INFO logger_File - User searched for the desiered Item
+2022-11-26 17:56:03,078 [main] INFO logger_File - User clicked on search Icon
+2022-11-26 17:56:03,353 [main] INFO logger_File - Item is found and User clicked on its image
+2022-11-26 17:56:03,711 [main] INFO logger_File - User selected desiered quantity
+2022-11-26 17:56:03,765 [main] INFO logger_File - User clicked on add to cart button
+2022-11-26 17:57:09,652 [main] INFO logger_File - React App is equal to React App
+2022-11-26 17:57:09,791 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 17:57:10,095 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 17:57:10,194 [main] INFO logger_File - user clicked on login button
+2022-11-26 17:57:10,558 [main] INFO logger_File - user logged in into account
+2022-11-26 17:57:10,665 [main] INFO logger_File - User Change the category
+2022-11-26 17:57:10,787 [main] INFO logger_File - User searched for the desiered Item
+2022-11-26 17:57:10,891 [main] INFO logger_File - User clicked on search Icon
+2022-11-26 17:57:11,484 [main] INFO logger_File - Item is found and User clicked on its image
+2022-11-26 17:57:11,756 [main] INFO logger_File - User selected desiered quantity
+2022-11-26 17:57:11,804 [main] INFO logger_File - User clicked on add to cart button
+2022-11-26 17:57:12,122 [main] INFO logger_File - Cart Button Was Clicked
+2022-11-26 17:57:12,193 [main] INFO logger_File - Proceed to Checkout Button Was Clicked
+2022-11-26 17:57:12,278 [main] INFO logger_File - Add a New Address was clicked
+2022-11-26 17:57:14,629 [main] INFO logger_File - Add your Address button was clicked
+2022-11-26 18:08:18,355 [main] INFO logger_File - React App is equal to React App
+2022-11-26 18:08:18,512 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 18:08:18,809 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 18:08:18,894 [main] INFO logger_File - user clicked on login button
+2022-11-26 18:08:19,260 [main] INFO logger_File - user logged in into account
+2022-11-26 18:08:19,443 [main] INFO logger_File - User Clicked on account button
+2022-11-26 18:08:19,525 [main] INFO logger_File - Add Address box was clicked
+2022-11-26 18:08:21,260 [main] INFO logger_File - All required fields are filled
+2022-11-26 18:08:21,400 [main] INFO logger_File - Add your Address button was clicked
+2022-11-26 18:08:22,119 [main] INFO logger_File - Address added successfully message was displayed
+2022-11-26 18:09:29,544 [main] INFO logger_File - React App is equal to React App
+2022-11-26 18:09:29,704 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 18:09:30,084 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 18:09:30,188 [main] INFO logger_File - user clicked on login button
+2022-11-26 18:09:30,573 [main] INFO logger_File - user logged in into account
+2022-11-26 18:09:30,721 [main] INFO logger_File - User Clicked on account button
+2022-11-26 18:09:31,155 [main] INFO logger_File - Edit Address text was clicked
+2022-11-26 18:09:33,551 [main] INFO logger_File - All required fields are filled
+2022-11-26 18:09:33,713 [main] INFO logger_File - Update Your Address button was clicked
+2022-11-26 18:12:17,678 [main] INFO logger_File - React App is equal to React App
+2022-11-26 18:12:17,850 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 18:12:18,213 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 18:12:18,309 [main] INFO logger_File - user clicked on login button
+2022-11-26 18:12:18,706 [main] INFO logger_File - user logged in into account
+2022-11-26 18:12:18,851 [main] INFO logger_File - User Clicked on account button
+2022-11-26 18:12:19,398 [main] INFO logger_File - Edit Address text was clicked
+2022-11-26 18:20:44,421 [main] INFO logger_File - React App is equal to React App
+2022-11-26 18:20:44,575 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 18:20:44,874 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 18:20:44,959 [main] INFO logger_File - user clicked on login button
+2022-11-26 18:20:45,313 [main] INFO logger_File - user logged in into account
+2022-11-26 18:20:45,473 [main] INFO logger_File - User Clicked on account button
+2022-11-26 18:20:45,797 [main] INFO logger_File - Edit Address text was clicked
+2022-11-26 18:20:47,531 [main] INFO logger_File - All required fields are filled
+2022-11-26 18:20:47,629 [main] INFO logger_File - Update Your Address button was clicked
+2022-11-26 18:26:17,881 [main] INFO logger_File - React App is equal to React App
+2022-11-26 18:26:18,053 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 18:26:18,421 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 18:26:18,541 [main] INFO logger_File - user clicked on login button
+2022-11-26 18:26:18,932 [main] INFO logger_File - user logged in into account
+2022-11-26 18:26:19,080 [main] INFO logger_File - User Clicked on account button
+2022-11-26 18:26:19,402 [main] INFO logger_File - Edit Address text was clicked
+2022-11-26 18:26:21,159 [main] INFO logger_File - All required fields are filled
+2022-11-26 18:26:21,261 [main] INFO logger_File - Update Your Address button was clicked
+2022-11-26 18:30:29,551 [main] INFO logger_File - React App is equal to React App
+2022-11-26 18:30:29,700 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 18:30:30,104 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 18:30:30,206 [main] INFO logger_File - user clicked on login button
+2022-11-26 18:30:30,603 [main] INFO logger_File - user logged in into account
+2022-11-26 18:30:30,714 [main] INFO logger_File - User Change the category
+2022-11-26 18:30:30,829 [main] INFO logger_File - User searched for the desiered Item
+2022-11-26 18:30:30,956 [main] INFO logger_File - User clicked on search Icon
+2022-11-26 18:30:31,210 [main] INFO logger_File - Item is found and User clicked on its image
+2022-11-26 18:30:31,540 [main] INFO logger_File - User selected desiered quantity
+2022-11-26 18:30:31,594 [main] INFO logger_File - User clicked on add to cart button
+2022-11-26 18:30:31,917 [main] INFO logger_File - Cart Button Was Clicked
+2022-11-26 18:30:31,994 [main] INFO logger_File - Proceed to Checkout Button Was Clicked
+2022-11-26 18:30:32,083 [main] INFO logger_File - Add a New Address was clicked
+2022-11-26 18:30:33,675 [main] INFO logger_File - Add your Address button was clicked
+2022-11-26 18:34:10,356 [main] INFO logger_File - React App is equal to React App
+2022-11-26 18:34:10,519 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 18:34:10,896 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 18:34:11,023 [main] INFO logger_File - user clicked on login button
+2022-11-26 18:34:11,373 [main] INFO logger_File - user logged in into account
+2022-11-26 18:34:11,513 [main] INFO logger_File - User Change the category
+2022-11-26 18:34:11,666 [main] INFO logger_File - User searched for the desiered Item
+2022-11-26 18:34:11,840 [main] INFO logger_File - User clicked on search Icon
+2022-11-26 18:34:12,079 [main] INFO logger_File - Item is found and User clicked on its image
+2022-11-26 18:34:12,396 [main] INFO logger_File - User selected desiered quantity
+2022-11-26 18:34:12,489 [main] INFO logger_File - User clicked on add to cart button
+2022-11-26 18:34:12,813 [main] INFO logger_File - Cart Button Was Clicked
+2022-11-26 18:34:12,891 [main] INFO logger_File - Proceed to Checkout Button Was Clicked
+2022-11-26 18:34:12,986 [main] INFO logger_File - Add a New Address was clicked
+2022-11-26 18:34:14,124 [main] INFO logger_File - Add your Address button was clicked
+2022-11-26 18:37:13,780 [main] INFO logger_File - React App is equal to React App
+2022-11-26 18:37:13,930 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 18:37:14,226 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 18:37:14,310 [main] INFO logger_File - user clicked on login button
+2022-11-26 18:37:14,684 [main] INFO logger_File - user logged in into account
+2022-11-26 18:37:14,790 [main] INFO logger_File - User Change the category
+2022-11-26 18:37:14,914 [main] INFO logger_File - User searched for the desiered Item
+2022-11-26 18:37:15,027 [main] INFO logger_File - User clicked on search Icon
+2022-11-26 18:37:15,266 [main] INFO logger_File - Item is found and User clicked on its image
+2022-11-26 18:37:15,618 [main] INFO logger_File - User selected desiered quantity
+2022-11-26 18:37:15,698 [main] INFO logger_File - User clicked on add to cart button
+2022-11-26 18:37:15,969 [main] INFO logger_File - Cart Button Was Clicked
+2022-11-26 18:37:16,069 [main] INFO logger_File - Proceed to Checkout Button Was Clicked
+2022-11-26 18:37:16,176 [main] INFO logger_File - Add a New Address was clicked
+2022-11-26 18:37:17,097 [main] INFO logger_File - Add your Address button was clicked
+2022-11-26 18:52:01,766 [main] INFO logger_File - React App is equal to React App
+2022-11-26 18:52:02,110 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 18:52:02,570 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 18:52:02,704 [main] INFO logger_File - user clicked on login button
+2022-11-26 18:52:03,141 [main] INFO logger_File - user logged in into account
+2022-11-26 18:52:03,267 [main] INFO logger_File - User Change the category
+2022-11-26 18:52:03,416 [main] INFO logger_File - User searched for the desiered Item
+2022-11-26 18:52:03,493 [main] INFO logger_File - User clicked on search Icon
+2022-11-26 18:52:03,759 [main] INFO logger_File - Item is found and User clicked on its image
+2022-11-26 18:52:04,070 [main] INFO logger_File - User selected desiered quantity
+2022-11-26 18:52:04,115 [main] INFO logger_File - User clicked on add to cart button
+2022-11-26 18:52:04,433 [main] INFO logger_File - Cart Button Was Clicked
+2022-11-26 18:52:04,509 [main] INFO logger_File - Proceed to Checkout Button Was Clicked
+2022-11-26 18:52:04,596 [main] INFO logger_File - Add a New Address was clicked
+2022-11-26 18:52:05,508 [main] INFO logger_File - New shipping address was added
+2022-11-26 18:52:05,657 [main] INFO logger_File - Add your Address button was clicked
+2022-11-26 18:55:47,083 [main] INFO logger_File - React App is equal to React App
+2022-11-26 18:55:47,236 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 18:55:47,543 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 18:55:47,636 [main] INFO logger_File - user clicked on login button
+2022-11-26 18:55:47,997 [main] INFO logger_File - user logged in into account
+2022-11-26 18:55:48,118 [main] INFO logger_File - User Change the category
+2022-11-26 18:55:48,251 [main] INFO logger_File - User searched for the desiered Item
+2022-11-26 18:55:48,364 [main] INFO logger_File - User clicked on search Icon
+2022-11-26 18:55:48,615 [main] INFO logger_File - Item is found and User clicked on its image
+2022-11-26 18:55:48,896 [main] INFO logger_File - User selected desiered quantity
+2022-11-26 18:55:48,947 [main] INFO logger_File - User clicked on add to cart button
+2022-11-26 18:55:49,260 [main] INFO logger_File - Cart Button Was Clicked
+2022-11-26 18:55:49,355 [main] INFO logger_File - Proceed to Checkout Button Was Clicked
+2022-11-26 18:55:49,445 [main] INFO logger_File - Add a New Address was clicked
+2022-11-26 18:55:50,268 [main] INFO logger_File - New shipping address was added
+2022-11-26 18:55:50,405 [main] INFO logger_File - Add your Address button was clicked
+2022-11-26 18:55:50,442 [main] INFO logger_File - Add a Credit or Debit Card button was clicked
+2022-11-26 18:57:41,330 [main] INFO logger_File - React App is equal to React App
+2022-11-26 18:57:41,477 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 18:57:41,779 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 18:57:41,868 [main] INFO logger_File - user clicked on login button
+2022-11-26 18:57:42,239 [main] INFO logger_File - user logged in into account
+2022-11-26 18:57:42,339 [main] INFO logger_File - User Change the category
+2022-11-26 18:57:42,467 [main] INFO logger_File - User searched for the desiered Item
+2022-11-26 18:57:42,593 [main] INFO logger_File - User clicked on search Icon
+2022-11-26 18:57:42,837 [main] INFO logger_File - Item is found and User clicked on its image
+2022-11-26 18:57:43,119 [main] INFO logger_File - User selected desiered quantity
+2022-11-26 18:57:43,170 [main] INFO logger_File - User clicked on add to cart button
+2022-11-26 18:57:43,512 [main] INFO logger_File - Cart Button Was Clicked
+2022-11-26 18:57:43,584 [main] INFO logger_File - Proceed to Checkout Button Was Clicked
+2022-11-26 18:57:43,675 [main] INFO logger_File - Add a New Address was clicked
+2022-11-26 18:57:44,532 [main] INFO logger_File - New shipping address was added
+2022-11-26 18:57:44,662 [main] INFO logger_File - Add your Address button was clicked
+2022-11-26 18:57:44,705 [main] INFO logger_File - Add a Credit or Debit Card button was clicked
+2022-11-26 18:57:45,186 [main] INFO logger_File - Credit Card Information were added
+2022-11-26 18:57:45,260 [main] INFO logger_File - Add Your Card button was clicked
+2022-11-26 19:51:13,809 [main] INFO logger_File - React App is equal to React App
+2022-11-26 19:51:14,035 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 19:51:14,391 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 19:51:14,481 [main] INFO logger_File - user clicked on login button
+2022-11-26 19:51:14,846 [main] INFO logger_File - user logged in into account
+2022-11-26 19:51:14,965 [main] INFO logger_File - User Change the category
+2022-11-26 19:51:15,099 [main] INFO logger_File - User searched for the desiered Item
+2022-11-26 19:51:15,290 [main] INFO logger_File - User clicked on search Icon
+2022-11-26 19:51:15,569 [main] INFO logger_File - Item is found and User clicked on its image
+2022-11-26 19:51:15,867 [main] INFO logger_File - User selected desiered quantity
+2022-11-26 19:51:15,932 [main] INFO logger_File - User clicked on add to cart button
+2022-11-26 19:51:16,244 [main] INFO logger_File - Cart Button Was Clicked
+2022-11-26 19:51:16,328 [main] INFO logger_File - Proceed to Checkout Button Was Clicked
+2022-11-26 19:51:16,411 [main] INFO logger_File - Add a New Address was clicked
+2022-11-26 19:51:17,287 [main] INFO logger_File - New shipping address was added
+2022-11-26 19:51:17,486 [main] INFO logger_File - Add your Address button was clicked
+2022-11-26 19:51:17,534 [main] INFO logger_File - Add a Credit or Debit Card button was clicked
+2022-11-26 19:51:18,173 [main] INFO logger_File - Credit Card Information were added
+2022-11-26 19:51:18,260 [main] INFO logger_File - Add Your Card button was clicked
+2022-11-26 19:54:39,495 [main] INFO logger_File - React App is equal to React App
+2022-11-26 19:54:39,649 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 19:54:39,978 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 19:54:40,062 [main] INFO logger_File - user clicked on login button
+2022-11-26 19:54:40,449 [main] INFO logger_File - user logged in into account
+2022-11-26 19:54:40,561 [main] INFO logger_File - User Change the category
+2022-11-26 19:54:40,724 [main] INFO logger_File - User searched for the desiered Item
+2022-11-26 19:54:40,963 [main] INFO logger_File - User clicked on search Icon
+2022-11-26 19:54:41,194 [main] INFO logger_File - Item is found and User clicked on its image
+2022-11-26 19:54:41,477 [main] INFO logger_File - User selected desiered quantity
+2022-11-26 19:54:41,524 [main] INFO logger_File - User clicked on add to cart button
+2022-11-26 19:54:41,855 [main] INFO logger_File - Cart Button Was Clicked
+2022-11-26 19:54:41,934 [main] INFO logger_File - Proceed to Checkout Button Was Clicked
+2022-11-26 19:54:42,019 [main] INFO logger_File - Add a New Address was clicked
+2022-11-26 19:54:42,864 [main] INFO logger_File - New shipping address was added
+2022-11-26 19:54:43,043 [main] INFO logger_File - Add your Address button was clicked
+2022-11-26 19:54:43,085 [main] INFO logger_File - Add a Credit or Debit Card button was clicked
+2022-11-26 19:54:43,622 [main] INFO logger_File - Credit Card Information were added
+2022-11-26 19:54:43,710 [main] INFO logger_File - Add Your Card button was clicked
+2022-11-26 19:54:44,289 [main] INFO logger_File - Order was placed
+2022-11-26 19:59:02,495 [main] INFO logger_File - React App is equal to React App
+2022-11-26 19:59:02,733 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 19:59:03,124 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 19:59:03,232 [main] INFO logger_File - user clicked on login button
+2022-11-26 19:59:03,678 [main] INFO logger_File - user logged in into account
+2022-11-26 19:59:03,883 [main] INFO logger_File - User Change the category
+2022-11-26 19:59:04,067 [main] INFO logger_File - User searched for the desiered Item
+2022-11-26 19:59:04,160 [main] INFO logger_File - User clicked on search Icon
+2022-11-26 19:59:04,375 [main] INFO logger_File - Item is found and User clicked on its image
+2022-11-26 19:59:04,641 [main] INFO logger_File - User selected desiered quantity
+2022-11-26 19:59:04,692 [main] INFO logger_File - User clicked on add to cart button
+2022-11-26 19:59:05,023 [main] INFO logger_File - Cart Button Was Clicked
+2022-11-26 19:59:05,099 [main] INFO logger_File - Proceed to Checkout Button Was Clicked
+2022-11-26 19:59:05,180 [main] INFO logger_File - Add a New Address was clicked
+2022-11-26 19:59:06,132 [main] INFO logger_File - New shipping address was added
+2022-11-26 19:59:06,293 [main] INFO logger_File - Add your Address button was clicked
+2022-11-26 19:59:06,335 [main] INFO logger_File - Add a Credit or Debit Card button was clicked
+2022-11-26 19:59:06,819 [main] INFO logger_File - Credit Card Information were added
+2022-11-26 19:59:06,931 [main] INFO logger_File - Add Your Card button was clicked
+2022-11-26 19:59:06,970 [main] INFO logger_File - Order was placed
+2022-11-26 20:03:11,379 [main] INFO logger_File - React App is equal to React App
+2022-11-26 20:03:11,533 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 20:03:11,856 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 20:03:11,944 [main] INFO logger_File - user clicked on login button
+2022-11-26 20:03:12,307 [main] INFO logger_File - user logged in into account
+2022-11-26 20:03:12,416 [main] INFO logger_File - User Change the category
+2022-11-26 20:03:12,538 [main] INFO logger_File - User searched for the desiered Item
+2022-11-26 20:03:12,663 [main] INFO logger_File - User clicked on search Icon
+2022-11-26 20:03:12,930 [main] INFO logger_File - Item is found and User clicked on its image
+2022-11-26 20:03:13,225 [main] INFO logger_File - User selected desiered quantity
+2022-11-26 20:03:13,273 [main] INFO logger_File - User clicked on add to cart button
+2022-11-26 20:03:13,391 [main] INFO logger_File - Cart Button Was Clicked
+2022-11-26 20:03:13,479 [main] INFO logger_File - Proceed to Checkout Button Was Clicked
+2022-11-26 20:03:13,590 [main] INFO logger_File - Add a New Address was clicked
+2022-11-26 20:03:14,382 [main] INFO logger_File - New shipping address was added
+2022-11-26 20:03:14,519 [main] INFO logger_File - Add your Address button was clicked
+2022-11-26 20:03:14,564 [main] INFO logger_File - Add a Credit or Debit Card button was clicked
+2022-11-26 20:03:15,070 [main] INFO logger_File - Credit Card Information were added
+2022-11-26 20:03:15,164 [main] INFO logger_File - Add Your Card button was clicked
+2022-11-26 20:03:15,206 [main] INFO logger_File - Order was placed
+2022-11-26 20:03:32,797 [main] INFO logger_File - Success message was displayed
+2022-11-26 20:07:42,443 [main] INFO logger_File - React App is equal to React App
+2022-11-26 20:07:42,666 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 20:07:42,998 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 20:07:43,090 [main] INFO logger_File - user clicked on login button
+2022-11-26 20:07:43,452 [main] INFO logger_File - user logged in into account
+2022-11-26 20:07:43,565 [main] INFO logger_File - User Change the category
+2022-11-26 20:07:43,706 [main] INFO logger_File - User searched for the desiered Item
+2022-11-26 20:07:43,807 [main] INFO logger_File - User clicked on search Icon
+2022-11-26 20:07:44,033 [main] INFO logger_File - Item is found and User clicked on its image
+2022-11-26 20:07:44,310 [main] INFO logger_File - User selected desiered quantity
+2022-11-26 20:07:44,364 [main] INFO logger_File - User clicked on add to cart button
+2022-11-26 20:07:44,683 [main] INFO logger_File - Cart Button Was Clicked
+2022-11-26 20:07:44,765 [main] INFO logger_File - Proceed to Checkout Button Was Clicked
+2022-11-26 20:07:44,864 [main] INFO logger_File - Add a New Address was clicked
+2022-11-26 20:07:45,698 [main] INFO logger_File - New shipping address was added
+2022-11-26 20:07:45,836 [main] INFO logger_File - Add your Address button was clicked
+2022-11-26 20:07:45,880 [main] INFO logger_File - Add a Credit or Debit Card button was clicked
+2022-11-26 20:07:46,352 [main] INFO logger_File - Credit Card Information were added
+2022-11-26 20:07:46,457 [main] INFO logger_File - Add Your Card button was clicked
+2022-11-26 20:07:46,520 [main] INFO logger_File - Order was placed
+2022-11-26 20:09:08,749 [main] INFO logger_File - React App is equal to React App
+2022-11-26 20:09:08,897 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 20:09:09,222 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 20:09:09,313 [main] INFO logger_File - user clicked on login button
+2022-11-26 20:09:09,697 [main] INFO logger_File - user logged in into account
+2022-11-26 20:09:09,807 [main] INFO logger_File - User Change the category
+2022-11-26 20:09:09,933 [main] INFO logger_File - User searched for the desiered Item
+2022-11-26 20:09:10,064 [main] INFO logger_File - User clicked on search Icon
+2022-11-26 20:09:10,306 [main] INFO logger_File - Item is found and User clicked on its image
+2022-11-26 20:09:10,624 [main] INFO logger_File - User selected desiered quantity
+2022-11-26 20:09:10,670 [main] INFO logger_File - User clicked on add to cart button
+2022-11-26 20:09:10,778 [main] INFO logger_File - Cart Button Was Clicked
+2022-11-26 20:09:10,852 [main] INFO logger_File - Proceed to Checkout Button Was Clicked
+2022-11-26 20:09:10,947 [main] INFO logger_File - Add a New Address was clicked
+2022-11-26 20:09:11,751 [main] INFO logger_File - New shipping address was added
+2022-11-26 20:09:11,882 [main] INFO logger_File - Add your Address button was clicked
+2022-11-26 20:09:11,918 [main] INFO logger_File - Add a Credit or Debit Card button was clicked
+2022-11-26 20:09:12,389 [main] INFO logger_File - Credit Card Information were added
+2022-11-26 20:09:12,493 [main] INFO logger_File - Add Your Card button was clicked
+2022-11-26 20:09:13,069 [main] INFO logger_File - Order was placed
+2022-11-26 20:10:20,400 [main] INFO logger_File - React App is equal to React App
+2022-11-26 20:10:20,543 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 20:10:20,853 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 20:10:20,940 [main] INFO logger_File - user clicked on login button
+2022-11-26 20:10:21,339 [main] INFO logger_File - user logged in into account
+2022-11-26 20:10:21,445 [main] INFO logger_File - User Change the category
+2022-11-26 20:10:21,595 [main] INFO logger_File - User searched for the desiered Item
+2022-11-26 20:10:21,688 [main] INFO logger_File - User clicked on search Icon
+2022-11-26 20:10:21,957 [main] INFO logger_File - Item is found and User clicked on its image
+2022-11-26 20:10:22,274 [main] INFO logger_File - User selected desiered quantity
+2022-11-26 20:10:22,324 [main] INFO logger_File - User clicked on add to cart button
+2022-11-26 20:10:22,676 [main] INFO logger_File - Cart Button Was Clicked
+2022-11-26 20:10:22,757 [main] INFO logger_File - Proceed to Checkout Button Was Clicked
+2022-11-26 20:10:22,848 [main] INFO logger_File - Add a New Address was clicked
+2022-11-26 20:10:23,666 [main] INFO logger_File - New shipping address was added
+2022-11-26 20:10:23,797 [main] INFO logger_File - Add your Address button was clicked
+2022-11-26 20:10:23,836 [main] INFO logger_File - Add a Credit or Debit Card button was clicked
+2022-11-26 20:10:24,392 [main] INFO logger_File - Credit Card Information were added
+2022-11-26 20:10:24,478 [main] INFO logger_File - Add Your Card button was clicked
+2022-11-26 20:10:24,518 [main] INFO logger_File - Order was placed
+2022-11-26 20:12:20,110 [main] INFO logger_File - React App is equal to React App
+2022-11-26 20:12:20,264 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 20:12:20,590 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 20:12:20,678 [main] INFO logger_File - user clicked on login button
+2022-11-26 20:12:21,091 [main] INFO logger_File - user logged in into account
+2022-11-26 20:12:21,209 [main] INFO logger_File - User Change the category
+2022-11-26 20:12:21,334 [main] INFO logger_File - User searched for the desiered Item
+2022-11-26 20:12:21,544 [main] INFO logger_File - User clicked on search Icon
+2022-11-26 20:12:21,826 [main] INFO logger_File - Item is found and User clicked on its image
+2022-11-26 20:12:22,136 [main] INFO logger_File - User selected desiered quantity
+2022-11-26 20:12:22,184 [main] INFO logger_File - User clicked on add to cart button
+2022-11-26 20:12:22,505 [main] INFO logger_File - Cart Button Was Clicked
+2022-11-26 20:12:22,597 [main] INFO logger_File - Proceed to Checkout Button Was Clicked
+2022-11-26 20:12:22,682 [main] INFO logger_File - Add a New Address was clicked
+2022-11-26 20:12:23,503 [main] INFO logger_File - New shipping address was added
+2022-11-26 20:12:23,649 [main] INFO logger_File - Add your Address button was clicked
+2022-11-26 20:12:23,703 [main] INFO logger_File - Add a Credit or Debit Card button was clicked
+2022-11-26 20:12:24,150 [main] INFO logger_File - Credit Card Information were added
+2022-11-26 20:12:24,249 [main] INFO logger_File - Add Your Card button was clicked
+2022-11-26 20:12:24,827 [main] INFO logger_File - Order was placed
+2022-11-26 20:12:41,441 [main] INFO logger_File - Order Placed message was displayed
+2022-11-26 20:13:08,969 [main] INFO logger_File - React App is equal to React App
+2022-11-26 20:13:09,117 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 20:13:09,457 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 20:13:09,556 [main] INFO logger_File - user clicked on login button
+2022-11-26 20:13:09,944 [main] INFO logger_File - user logged in into account
+2022-11-26 20:13:10,074 [main] INFO logger_File - User Change the category
+2022-11-26 20:13:10,337 [main] INFO logger_File - User searched for the desiered Item
+2022-11-26 20:13:10,517 [main] INFO logger_File - User clicked on search Icon
+2022-11-26 20:13:10,796 [main] INFO logger_File - Item is found and User clicked on its image
+2022-11-26 20:13:11,104 [main] INFO logger_File - User selected desiered quantity
+2022-11-26 20:13:11,154 [main] INFO logger_File - User clicked on add to cart button
+2022-11-26 20:13:11,547 [main] INFO logger_File - Cart Button Was Clicked
+2022-11-26 20:13:11,636 [main] INFO logger_File - Proceed to Checkout Button Was Clicked
+2022-11-26 20:13:11,734 [main] INFO logger_File - Add a New Address was clicked
+2022-11-26 20:13:12,616 [main] INFO logger_File - New shipping address was added
+2022-11-26 20:13:12,748 [main] INFO logger_File - Add your Address button was clicked
+2022-11-26 20:13:12,790 [main] INFO logger_File - Add a Credit or Debit Card button was clicked
+2022-11-26 20:13:13,265 [main] INFO logger_File - Credit Card Information were added
+2022-11-26 20:13:13,360 [main] INFO logger_File - Add Your Card button was clicked
+2022-11-26 20:13:13,405 [main] INFO logger_File - Order was placed
+2022-11-26 20:19:37,299 [main] INFO logger_File - React App is equal to React App
+2022-11-26 20:19:37,475 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 20:19:37,780 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 20:19:37,871 [main] INFO logger_File - user clicked on login button
+2022-11-26 20:19:38,239 [main] INFO logger_File - user logged in into account
+2022-11-26 20:19:38,375 [main] INFO logger_File - User Change the category
+2022-11-26 20:19:38,520 [main] INFO logger_File - User searched for the desiered Item
+2022-11-26 20:19:38,656 [main] INFO logger_File - User clicked on search Icon
+2022-11-26 20:19:39,193 [main] INFO logger_File - Item is found and User clicked on its image
+2022-11-26 20:19:39,519 [main] INFO logger_File - User selected desiered quantity
+2022-11-26 20:19:39,564 [main] INFO logger_File - User clicked on add to cart button
+2022-11-26 20:19:39,846 [main] INFO logger_File - Cart Button Was Clicked
+2022-11-26 20:19:39,939 [main] INFO logger_File - Proceed to Checkout Button Was Clicked
+2022-11-26 20:19:40,032 [main] INFO logger_File - Add a New Address was clicked
+2022-11-26 20:19:40,900 [main] INFO logger_File - New shipping address was added
+2022-11-26 20:19:41,026 [main] INFO logger_File - Add your Address button was clicked
+2022-11-26 20:19:41,061 [main] INFO logger_File - Add a Credit or Debit Card button was clicked
+2022-11-26 20:19:41,524 [main] INFO logger_File - Credit Card Information were added
+2022-11-26 20:19:41,620 [main] INFO logger_File - Add Your Card button was clicked
+2022-11-26 20:19:41,661 [main] INFO logger_File - Order was placed
+2022-11-26 20:36:17,997 [main] INFO logger_File - React App is equal to React App
+2022-11-26 20:36:18,188 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 20:36:18,535 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 20:36:18,617 [main] INFO logger_File - user clicked on login button
+2022-11-26 20:36:19,008 [main] INFO logger_File - user logged in into account
+2022-11-26 20:36:19,115 [main] INFO logger_File - User Change the category
+2022-11-26 20:36:19,258 [main] INFO logger_File - User searched for the desiered Item
+2022-11-26 20:36:19,381 [main] INFO logger_File - User clicked on search Icon
+2022-11-26 20:36:19,620 [main] INFO logger_File - Item is found and User clicked on its image
+2022-11-26 20:36:19,897 [main] INFO logger_File - User selected desiered quantity
+2022-11-26 20:36:19,950 [main] INFO logger_File - User clicked on add to cart button
+2022-11-26 20:36:20,268 [main] INFO logger_File - Cart Button Was Clicked
+2022-11-26 20:36:20,360 [main] INFO logger_File - Proceed to Checkout Button Was Clicked
+2022-11-26 20:36:20,477 [main] INFO logger_File - Add a New Address was clicked
+2022-11-26 20:36:21,340 [main] INFO logger_File - New shipping address was added
+2022-11-26 20:36:21,472 [main] INFO logger_File - Add your Address button was clicked
+2022-11-26 20:36:21,508 [main] INFO logger_File - Add a Credit or Debit Card button was clicked
+2022-11-26 20:36:22,026 [main] INFO logger_File - Credit Card Information were added
+2022-11-26 20:36:22,129 [main] INFO logger_File - Add Your Card button was clicked
+2022-11-26 20:36:22,178 [main] INFO logger_File - Order was placed
+2022-11-26 20:37:20,094 [main] INFO logger_File - React App is equal to React App
+2022-11-26 20:37:20,234 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 20:37:20,592 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 20:37:20,684 [main] INFO logger_File - user clicked on login button
+2022-11-26 20:37:21,054 [main] INFO logger_File - user logged in into account
+2022-11-26 20:37:21,167 [main] INFO logger_File - User Change the category
+2022-11-26 20:37:21,294 [main] INFO logger_File - User searched for the desiered Item
+2022-11-26 20:37:21,435 [main] INFO logger_File - User clicked on search Icon
+2022-11-26 20:37:21,752 [main] INFO logger_File - Item is found and User clicked on its image
+2022-11-26 20:37:22,026 [main] INFO logger_File - User selected desiered quantity
+2022-11-26 20:37:22,075 [main] INFO logger_File - User clicked on add to cart button
+2022-11-26 20:37:22,181 [main] INFO logger_File - Cart Button Was Clicked
+2022-11-26 20:37:22,270 [main] INFO logger_File - Proceed to Checkout Button Was Clicked
+2022-11-26 20:37:22,360 [main] INFO logger_File - Add a New Address was clicked
+2022-11-26 20:37:23,227 [main] INFO logger_File - New shipping address was added
+2022-11-26 20:37:23,385 [main] INFO logger_File - Add your Address button was clicked
+2022-11-26 20:37:23,423 [main] INFO logger_File - Add a Credit or Debit Card button was clicked
+2022-11-26 20:37:23,889 [main] INFO logger_File - Credit Card Information were added
+2022-11-26 20:37:23,970 [main] INFO logger_File - Add Your Card button was clicked
+2022-11-26 20:37:24,559 [main] INFO logger_File - Order was placed
+2022-11-26 20:39:43,690 [main] INFO logger_File - React App is equal to React App
+2022-11-26 20:39:43,869 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 20:39:44,183 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 20:39:44,277 [main] INFO logger_File - user clicked on login button
+2022-11-26 20:39:44,636 [main] INFO logger_File - user logged in into account
+2022-11-26 20:39:44,781 [main] INFO logger_File - User Change the category
+2022-11-26 20:39:44,923 [main] INFO logger_File - User searched for the desiered Item
+2022-11-26 20:39:45,025 [main] INFO logger_File - User clicked on search Icon
+2022-11-26 20:39:45,284 [main] INFO logger_File - Item is found and User clicked on its image
+2022-11-26 20:39:45,594 [main] INFO logger_File - User selected desiered quantity
+2022-11-26 20:39:45,642 [main] INFO logger_File - User clicked on add to cart button
+2022-11-26 20:39:45,944 [main] INFO logger_File - Cart Button Was Clicked
+2022-11-26 20:39:46,015 [main] INFO logger_File - Proceed to Checkout Button Was Clicked
+2022-11-26 20:39:46,113 [main] INFO logger_File - Add a New Address was clicked
+2022-11-26 20:39:46,949 [main] INFO logger_File - New shipping address was added
+2022-11-26 20:39:47,092 [main] INFO logger_File - Add your Address button was clicked
+2022-11-26 20:39:47,140 [main] INFO logger_File - Add a Credit or Debit Card button was clicked
+2022-11-26 20:39:47,614 [main] INFO logger_File - Credit Card Information were added
+2022-11-26 20:39:47,686 [main] INFO logger_File - Add Your Card button was clicked
+2022-11-26 20:39:47,928 [main] INFO logger_File - Order was placed
+2022-11-26 20:39:48,394 [main] INFO logger_File - Order Placed message was displayed
+2022-11-26 20:41:49,498 [main] INFO logger_File - React App is equal to React App
+2022-11-26 20:41:49,640 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 20:41:50,019 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 20:41:50,112 [main] INFO logger_File - user clicked on login button
+2022-11-26 20:41:50,481 [main] INFO logger_File - user logged in into account
+2022-11-26 20:41:50,592 [main] INFO logger_File - User Change the category
+2022-11-26 20:41:50,711 [main] INFO logger_File - User searched for the desiered Item
+2022-11-26 20:41:50,867 [main] INFO logger_File - User clicked on search Icon
+2022-11-26 20:41:51,133 [main] INFO logger_File - Item is found and User clicked on its image
+2022-11-26 20:41:51,456 [main] INFO logger_File - User selected desiered quantity
+2022-11-26 20:41:51,535 [main] INFO logger_File - User clicked on add to cart button
+2022-11-26 20:41:51,889 [main] INFO logger_File - Cart Button Was Clicked
+2022-11-26 20:41:51,971 [main] INFO logger_File - Proceed to Checkout Button Was Clicked
+2022-11-26 20:41:52,071 [main] INFO logger_File - Add a New Address was clicked
+2022-11-26 20:41:52,886 [main] INFO logger_File - New shipping address was added
+2022-11-26 20:41:53,019 [main] INFO logger_File - Add your Address button was clicked
+2022-11-26 20:41:53,056 [main] INFO logger_File - Add a Credit or Debit Card button was clicked
+2022-11-26 20:41:53,506 [main] INFO logger_File - Credit Card Information were added
+2022-11-26 20:41:53,582 [main] INFO logger_File - Add Your Card button was clicked
+2022-11-26 20:41:53,804 [main] INFO logger_File - Order was placed
+2022-11-26 20:41:54,276 [main] INFO logger_File - Order Placed message was displayed
+2022-11-26 20:47:46,313 [main] INFO logger_File - React App is equal to React App
+2022-11-26 20:47:46,502 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 20:47:46,856 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 20:47:46,953 [main] INFO logger_File - user clicked on login button
+2022-11-26 20:47:47,335 [main] INFO logger_File - user logged in into account
+2022-11-26 20:47:47,444 [main] INFO logger_File - User Change the category
+2022-11-26 20:47:47,590 [main] INFO logger_File - User searched for the desiered Item
+2022-11-26 20:47:47,773 [main] INFO logger_File - User clicked on search Icon
+2022-11-26 20:47:48,358 [main] INFO logger_File - Item is found and User clicked on its image
+2022-11-26 20:47:48,599 [main] INFO logger_File - User selected desiered quantity
+2022-11-26 20:47:48,660 [main] INFO logger_File - User clicked on add to cart button
+2022-11-26 21:24:11,052 [main] INFO logger_File - React App is equal to React App
+2022-11-26 21:24:11,227 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 21:24:11,565 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 21:24:11,648 [main] INFO logger_File - user clicked on login button
+2022-11-26 21:24:11,997 [main] INFO logger_File - user logged in into account
+2022-11-26 21:24:12,117 [main] INFO logger_File - User Change the category
+2022-11-26 21:24:12,246 [main] INFO logger_File - User searched for the desiered Item
+2022-11-26 21:24:12,433 [main] INFO logger_File - User clicked on search Icon
+2022-11-26 21:24:12,678 [main] INFO logger_File - Item is found and User clicked on its image
+2022-11-26 21:24:13,002 [main] INFO logger_File - User selected desiered quantity
+2022-11-26 21:24:13,061 [main] INFO logger_File - User clicked on add to cart button
+2022-11-26 21:25:26,571 [main] INFO logger_File - React App is equal to React App
+2022-11-26 21:25:26,733 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 21:25:27,055 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 21:25:27,152 [main] INFO logger_File - user clicked on login button
+2022-11-26 21:25:27,512 [main] INFO logger_File - user logged in into account
+2022-11-26 21:25:27,604 [main] INFO logger_File - User Change the category
+2022-11-26 21:25:27,732 [main] INFO logger_File - User searched for the desiered Item
+2022-11-26 21:25:27,932 [main] INFO logger_File - User clicked on search Icon
+2022-11-26 21:25:28,179 [main] INFO logger_File - Item is found and User clicked on its image
+2022-11-26 21:25:28,460 [main] INFO logger_File - User selected desiered quantity
+2022-11-26 21:25:28,503 [main] INFO logger_File - User clicked on add to cart button
+2022-11-26 21:25:28,800 [main] INFO logger_File - Cart Button Was Clicked
+2022-11-26 21:25:28,881 [main] INFO logger_File - Proceed to Checkout Button Was Clicked
+2022-11-26 21:25:28,962 [main] INFO logger_File - Add a New Address was clicked
+2022-11-26 21:25:29,876 [main] INFO logger_File - New shipping address was added
+2022-11-26 21:25:30,037 [main] INFO logger_File - Add your Address button was clicked
+2022-11-26 21:25:30,077 [main] INFO logger_File - Add a Credit or Debit Card button was clicked
+2022-11-26 21:25:30,551 [main] INFO logger_File - Credit Card Information were added
+2022-11-26 21:25:30,650 [main] INFO logger_File - Add Your Card button was clicked
+2022-11-26 21:25:30,860 [main] INFO logger_File - Order was placed
+2022-11-26 21:25:31,291 [main] INFO logger_File - Order Placed message was displayed
+2022-11-26 21:27:22,262 [main] INFO logger_File - React App is equal to React App
+2022-11-26 21:27:22,451 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 21:27:22,828 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 21:27:22,907 [main] INFO logger_File - user clicked on login button
+2022-11-26 21:27:23,260 [main] INFO logger_File - user logged in into account
+2022-11-26 21:33:26,317 [main] INFO logger_File - React App is equal to React App
+2022-11-26 21:33:26,476 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 21:33:26,808 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 21:33:26,898 [main] INFO logger_File - user clicked on login button
+2022-11-26 21:33:27,272 [main] INFO logger_File - user logged in into account
+2022-11-26 21:33:27,358 [main] INFO logger_File - Order link was clicked
+2022-11-26 21:42:06,751 [main] INFO logger_File - React App is equal to React App
+2022-11-26 21:42:06,915 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 21:42:07,238 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 21:42:07,325 [main] INFO logger_File - user clicked on login button
+2022-11-26 21:42:07,703 [main] INFO logger_File - user logged in into account
+2022-11-26 21:42:07,787 [main] INFO logger_File - Order link was clicked
+2022-11-26 21:42:08,263 [main] INFO logger_File - Can The Order Button Was Clicked
+2022-11-26 21:50:56,662 [main] INFO logger_File - React App is equal to React App
+2022-11-26 21:50:56,821 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 21:50:57,152 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 21:50:57,241 [main] INFO logger_File - user clicked on login button
+2022-11-26 21:50:57,639 [main] INFO logger_File - user logged in into account
+2022-11-26 21:50:57,716 [main] INFO logger_File - Order link was clicked
+2022-11-26 21:50:58,233 [main] INFO logger_File - Can The Order Button Was Clicked
+2022-11-26 21:50:58,360 [main] INFO logger_File - Reason was chosen
+2022-11-26 21:54:30,054 [main] INFO logger_File - React App is equal to React App
+2022-11-26 21:54:30,223 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 21:54:30,645 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 21:54:30,778 [main] INFO logger_File - user clicked on login button
+2022-11-26 21:54:31,213 [main] INFO logger_File - user logged in into account
+2022-11-26 21:54:31,302 [main] INFO logger_File - Order link was clicked
+2022-11-26 21:54:31,760 [main] INFO logger_File - Cancel The Order Button Was Clicked
+2022-11-26 21:54:31,896 [main] INFO logger_File - Reason was chosen
+2022-11-26 21:54:31,944 [main] INFO logger_File - Cancel Order was clicked again
+2022-11-26 21:58:07,738 [main] INFO logger_File - React App is equal to React App
+2022-11-26 21:58:07,881 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 21:58:08,184 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 21:58:08,270 [main] INFO logger_File - user clicked on login button
+2022-11-26 21:58:08,655 [main] INFO logger_File - user logged in into account
+2022-11-26 21:58:08,731 [main] INFO logger_File - Order link was clicked
+2022-11-26 21:58:09,221 [main] INFO logger_File - Cancel The Order Button Was Clicked
+2022-11-26 21:58:09,354 [main] INFO logger_File - Reason was chosen
+2022-11-26 21:58:09,406 [main] INFO logger_File - Cancel Order was clicked again
+2022-11-26 21:58:09,655 [main] INFO logger_File - Order Cancelation msg was displayed
+2022-11-26 22:05:03,737 [main] INFO logger_File - React App is equal to React App
+2022-11-26 22:05:03,889 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 22:05:04,227 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 22:05:04,316 [main] INFO logger_File - user clicked on login button
+2022-11-26 22:05:04,692 [main] INFO logger_File - user logged in into account
+2022-11-26 22:05:04,781 [main] INFO logger_File - Order link was clicked
+2022-11-26 22:11:57,927 [main] INFO logger_File - React App is equal to React App
+2022-11-26 22:11:58,076 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 22:11:58,401 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 22:11:58,496 [main] INFO logger_File - user clicked on login button
+2022-11-26 22:11:58,868 [main] INFO logger_File - user logged in into account
+2022-11-26 22:11:58,999 [main] INFO logger_File - Order link was clicked
+2022-11-26 22:11:59,391 [main] INFO logger_File - Return Item Button was clicked
+2022-11-26 22:21:32,280 [main] INFO logger_File - React App is equal to React App
+2022-11-26 22:21:32,429 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 22:21:32,836 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 22:21:32,956 [main] INFO logger_File - user clicked on login button
+2022-11-26 22:21:33,324 [main] INFO logger_File - user logged in into account
+2022-11-26 22:21:33,431 [main] INFO logger_File - Order link was clicked
+2022-11-26 22:21:34,029 [main] INFO logger_File - Return Item Button was clicked
+2022-11-26 22:21:34,163 [main] INFO logger_File - Reason for return was chosen
+2022-11-26 22:21:34,259 [main] INFO logger_File - Drop off location was chosen
+2022-11-26 22:21:34,312 [main] INFO logger_File - Return Order was clicked
+2022-11-26 22:25:33,025 [main] INFO logger_File - React App is equal to React App
+2022-11-26 22:25:33,198 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 22:25:33,501 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 22:25:33,588 [main] INFO logger_File - user clicked on login button
+2022-11-26 22:25:33,965 [main] INFO logger_File - user logged in into account
+2022-11-26 22:25:34,048 [main] INFO logger_File - Order link was clicked
+2022-11-26 22:25:34,437 [main] INFO logger_File - Return Item Button was clicked
+2022-11-26 22:25:34,565 [main] INFO logger_File - Reason for return was chosen
+2022-11-26 22:25:34,650 [main] INFO logger_File - Drop off location was chosen
+2022-11-26 22:25:34,699 [main] INFO logger_File - Return Order was clicked
+2022-11-26 22:25:34,950 [main] INFO logger_File - Order Return Success message was displayed
+2022-11-26 22:29:53,819 [main] INFO logger_File - React App is equal to React App
+2022-11-26 22:29:54,000 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 22:29:54,383 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 22:29:54,475 [main] INFO logger_File - user clicked on login button
+2022-11-26 22:29:54,845 [main] INFO logger_File - user logged in into account
+2022-11-26 22:29:54,946 [main] INFO logger_File - Order link was clicked
+2022-11-26 22:33:05,467 [main] INFO logger_File - React App is equal to React App
+2022-11-26 22:33:05,663 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 22:33:06,028 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 22:33:06,112 [main] INFO logger_File - user clicked on login button
+2022-11-26 22:33:06,485 [main] INFO logger_File - user logged in into account
+2022-11-26 22:33:06,564 [main] INFO logger_File - Order link was clicked
+2022-11-26 22:33:06,951 [main] INFO logger_File - Review Button was clicked
+2022-11-26 22:46:57,520 [main] INFO logger_File - React App is equal to React App
+2022-11-26 22:46:57,689 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 22:46:58,029 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 22:46:58,120 [main] INFO logger_File - user clicked on login button
+2022-11-26 22:46:58,499 [main] INFO logger_File - user logged in into account
+2022-11-26 22:46:58,588 [main] INFO logger_File - Order link was clicked
+2022-11-26 22:46:58,924 [main] INFO logger_File - Review Button was clicked
+2022-11-26 22:46:59,413 [main] INFO logger_File - Head line and Review was added
+2022-11-26 22:46:59,464 [main] INFO logger_File - Add your review button was clicked
+2022-11-26 22:53:21,553 [main] INFO logger_File - React App is equal to React App
+2022-11-26 22:53:21,721 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 22:53:22,048 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 22:53:22,129 [main] INFO logger_File - user clicked on login button
+2022-11-26 22:53:22,505 [main] INFO logger_File - user logged in into account
+2022-11-26 22:53:22,593 [main] INFO logger_File - Order link was clicked
+2022-11-26 22:53:23,069 [main] INFO logger_File - Review Button was clicked
+2022-11-26 22:53:23,558 [main] INFO logger_File - Head line and Review was added
+2022-11-26 22:53:23,642 [main] INFO logger_File - Add your review button was clicked
+2022-11-26 22:58:01,570 [main] INFO logger_File - React App is equal to React App
+2022-11-26 22:58:01,882 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 22:58:02,458 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 22:58:02,629 [main] INFO logger_File - user clicked on login button
+2022-11-26 22:58:03,375 [main] INFO logger_File - user logged in into account
+2022-11-26 22:58:03,465 [main] INFO logger_File - Order link was clicked
+2022-11-26 22:58:03,711 [main] INFO logger_File - Review Button was clicked
+2022-11-26 22:58:04,163 [main] INFO logger_File - Head line and Review was added
+2022-11-26 22:58:04,229 [main] INFO logger_File - Add your review button was clicked
+2022-11-26 22:58:05,029 [main] INFO logger_File - Review Success message was displayed
+2022-11-26 22:59:15,264 [main] INFO logger_File - React App is equal to React App
+2022-11-26 22:59:15,419 [main] INFO logger_File - User clicked on sign in option
+2022-11-26 22:59:15,764 [main] INFO logger_File - user entered email fakerson@foo.com and password Fake@1234512
+2022-11-26 22:59:15,855 [main] INFO logger_File - user clicked on login button
+2022-11-26 22:59:16,254 [main] INFO logger_File - user logged in into account
+2022-11-26 22:59:16,379 [main] INFO logger_File - Order link was clicked
+2022-11-26 22:59:16,909 [main] INFO logger_File - Review Button was clicked
+2022-11-26 22:59:17,511 [main] INFO logger_File - Head line and Review was added
+2022-11-26 22:59:17,644 [main] INFO logger_File - Add your review button was clicked
+2022-11-26 22:59:18,408 [main] INFO logger_File - Review Success message was displayed
